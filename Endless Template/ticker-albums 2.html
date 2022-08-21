@@ -1,0 +1,25 @@
+<div id=entries>
+<div>
+<center><div class="randoms" id="videosrandom"></div></center>
+		</div>
+		</div>
+<script>
+	var videosentries = [
+		{{#all_entries}}
+		
+			{{#tagged.videos}}
+
+				{title: "{{title}}", url: "{{url}}", date: "{{date}}"},
+			
+			{{/tagged.videos}}
+		
+		{{/all_entries}}
+		];       
+
+				// Pick each of the entries at random
+		var videosrecents = videosentries.slice(0, 5);
+		var videosentry = videosentries[Math.floor(Math.random()*videosrecents.length)];
+		var videoshtml = '<h3></h3>' + '<h1><a href="' + videosentry.url +'">' +videosentry.title +'</a></h1>';
+
+document.getElementById('videosrandom').innerHTML = videoshtml;
+</script>

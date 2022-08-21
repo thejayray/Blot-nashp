@@ -1,0 +1,24 @@
+<div id=entries>
+<div>
+<center><div class="randoms" id="guestrandom"></div></center>
+		</div>
+		</div>
+<script>
+	var guestentries = [
+		{{#all_entries}}
+		
+			{{#tagged.guest}}
+
+				{title: "{{title}}", url: "{{url}}", date: "{{date}}"},
+			
+			{{/tagged.guest}}
+		
+		{{/all_entries}}
+		];       
+
+		// Pick each of the entries at random
+		var guestentry = guestentries[Math.floor(Math.random()*guestentries.length)];
+		var guesthtml = '' + '<h1><a href="' + guestentry.url +'">' +guestentry.title +'</a></h1>';
+
+document.getElementById('guestrandom').innerHTML = guesthtml;
+</script>

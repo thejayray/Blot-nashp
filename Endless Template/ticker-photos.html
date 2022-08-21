@@ -1,0 +1,25 @@
+<div id=entries>
+<div>
+<center><div class="randoms" id="photoblogsrandom"></div></center>
+		</div>
+		</div>
+<script>
+	var photoblogsentries = [
+		{{#all_entries}}
+		
+			{{#tagged.photoblogs}}
+
+				{title: "{{title}}", url: "{{url}}", date: "{{date}}"},
+			
+			{{/tagged.photoblogs}}
+		
+		{{/all_entries}}
+		];       
+
+				// Pick each of the entries at random
+		var photoblogsrecents = photoblogsentries.slice(0, 1);
+		var photoblogsentry = photoblogsentries[Math.floor(Math.random()*photoblogsrecents.length)];
+		var photoblogshtml = '<h3></h3>' + '<h1><a href="' + photoblogsentry.url +'">' +photoblogsentry.title +'</a></h1>';
+
+document.getElementById('photoblogsrandom').innerHTML = photoblogshtml;
+</script>

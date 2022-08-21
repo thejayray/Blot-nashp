@@ -1,0 +1,25 @@
+<div id=entries>
+<div>
+<center><div class="randoms" id="essaysrandom"></div></center>
+		</div>
+		</div>
+<script>
+	var essaysentries = [
+		{{#all_entries}}
+		
+			{{#tagged.essays}}
+
+				{title: "{{title}}", url: "{{url}}", date: "{{date}}"},
+			
+			{{/tagged.essays}}
+		
+		{{/all_entries}}
+		];       
+
+				// Pick each of the entries at random
+		var essaysrecents = albumsentries.slice(0, 3);
+		var essaysentry = essaysentries[Math.floor(Math.random()*essaysrecents.length)];
+		var essayshtml = '<h3></h3>' + '<h1><a href="' + essaysentry.url +'">' +essaysentry.title +'</a></h1>';
+
+document.getElementById('essaysrandom').innerHTML = essayshtml;
+</script>
