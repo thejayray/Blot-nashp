@@ -1,0 +1,92 @@
+{
+  "name": "Effortless",
+  "locals": {
+    "page_size": "1",
+    "background_color": "#ffffff",
+    "background_color_dark": "#2F3440",
+    "background_color_alt": "#EE5261",
+    "text_color": "#10404E",
+    "text_color_dark": "#F2F2F2",
+    "link_color": "#479db1",
+    "author_info": {
+      "name": "Nash",
+      "email": "nashp@me.com"
+    },
+    "site_description": "I'm Nash. I create things.",
+    "body_font": {
+      "id": "---",
+      "font_size": "12",
+      "line_height": "1.7"
+    }
+  },
+  "views": {
+    "entries.html": {
+      "partials": {
+        "title": "{{{title}}}",
+        "description": "The latest on {{{title}}}"
+      }
+    },
+    "bandcamp_vars.html": {
+      "url": "/bandcamp_link"
+    },
+    "tagged.html": {
+      "partials": {
+        "title": "Entries tagged {{{tag}}} from {{{title}}}",
+        "description": "All of the entries posted on {{{title}}} tagged {{{tag}}}"
+      }
+    },
+    "search.html": {
+      "url": "/search",
+      "partials": {
+        "title": "Search - {{{title}}}",
+        "description": "Search all the entries posted on {{{title}}}"
+      }
+    },
+    "leather.html": {
+      "url": "/leather"
+    },
+    "error.html": {
+      "partials": {
+        "title": "{{{error.title}}} - {{{title}}}",
+        "description": "Error on {{{title}}}"
+      }
+    },
+    "media_page.html": {
+      "url": "/photos"
+    },
+    "tags.html": {
+      "url": "/tags"
+    },
+    "toc.html": {
+      "url": "/toc"
+    },
+    "gift.html": {
+      "url": "/gift"
+    },
+    "roman.html": {
+      "url": "/repairs"
+    },
+    "archive.html": {
+      "url": "/archive",
+      "partials": {
+        "title": "Archives",
+        "description": "All the entries posted on {{{title}}}"
+      }
+    },
+    "public.html": {
+      "partials": {
+        "title": "{{{path}}}",
+        "description": "All the files and folders inside {{{path}}}"
+      }
+    },
+    "entry.html": {
+      "partials": {
+        "title": "{{{entry.title}}}",
+        "description": "I’m Nash. I create things."
+      }
+    },
+    "subscribe.html": {
+      "url": "/subscribe"
+    }
+  }
+}
