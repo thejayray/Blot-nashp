@@ -1,28 +1,7 @@
-<style>
-  .counter-bar {
-    width: 50%;
-    min-width: 256px;
-    overflow: hidden;
-    margin: 1rem;
-	background: #F5F5F5;
-    border-radius: 1rem;
-    height: auto;
-  }
-  @media (prefers-color-scheme: dark) {
-    .counter-bar {
-      background: #333A47;
-    }
-  }
-</style>
-
-<center>
-<div class="counter-bar" id="countup1">
-  <span class="timeel years"></span>
-  <span class="timeel timeRefYears">years, </span>
-  <span class="timeel days"></span>
-  <span class="timeel timeRefDays">days</span>
+<div class="countup" id="countup1">
+  <span class="timeel">DAY</span>
+  <span class="timeel raw"></span>
 </div>
-</center>
 
 <script>
 /*
@@ -40,14 +19,13 @@ function countUpFromTime(countFrom, id) {
       timeDifference = (now - countFrom);
     
   var secondsInADay = 60 * 60 * 24 * 1000;
-  var days = Math.floor(timeDifference / secondsInADay);
-  // var years = ((days * 4) / 1461);
-  years = Math.floor(days / 365);
-  if (years > 1){ days = days - (years * 365) }
+  var days = (timeDifference / secondsInADay);
+  var years = ((days * 4) / 1461);
+
+  raw = (timeDifference / (secondsInADay) * 1).toFixed(7);
 
   var idEl = document.getElementById(id);
-  idEl.getElementsByClassName('years')[0].innerHTML = years;
-  idEl.getElementsByClassName('days')[0].innerHTML = days;
+  idEl.getElementsByClassName('raw')[0].innerHTML = raw;
 
   clearTimeout(countUpFromTime.interval);
   countUpFromTime.interval = setTimeout(function(){ countUpFromTime(countFrom, id); }, 10);

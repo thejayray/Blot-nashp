@@ -1,34 +1,7 @@
 <!DOCTYPE html>
 <html>
   {{> head}} 
-  <body>
-    {{> header}}
-    <div class="container">
-    
-    <h3><a href="https://fantastical.app/zh3d8sa3j4-MkRd/nash">Schedule</a> | <a href="mailto:nashp@me.com">nashp@me.com</a> | <a href="tel:985-226-5679">985.226.5679</a></h3>
-    <h4>I’ve always had an eye for photography. I love capturing the world around me and freezing life into a still moment. It's been a passion of mine for as long as I can remember. After a decade of it being a hobby, it's now become a job: a family business, where my wife, daughter, and siblings can help me as I help others. <a href="https://fantastical.app/zh3d8sa3j4-MkRd/nash">Keep me in mind for the future.</a></h4>
-   
-   
- 
-    
-      <style>
-          .entries h5:nth-child(n+15){display: none}
-      </style>
-      
-      <div class="entries">
-        {{#recent_entries}}
-            {{#tagged.photos}}
-				<h5>{{{body}}}</h5>
-            {{/tagged.photos}}
-        {{/recent_entries}}
-      </div>
-	  
-            
-
-    {{> footer}}
-    </div>
-  </body>
-  <style>
+    <style>
   	body {
 		color: {{text_color_dark}};
 		background: black;
@@ -55,4 +28,31 @@
       border: none;
     }
   </style>
+  <body>
+    {{> header}}
+    <div class="container">
+    
+    <h3><a href="https://fantastical.app/zh3d8sa3j4-MkRd/nash">Schedule</a> | <a href="mailto:nashp@me.com">nashp@me.com</a> | <a href="tel:985-226-5679">985.226.5679</a></h3>
+    <h4>I’ve always had an eye for photography. I love capturing the world around me and freezing life into a still moment. It's been a passion of mine for as long as I can remember. After a decade of it being a hobby, it's now become a job: a family business, where my wife, daughter, and siblings can help me as I help others. <a href="https://fantastical.app/zh3d8sa3j4-MkRd/nash">Keep me in mind for the future.</a></h4>
+   
+   
+ 
+<!--
+      <style>
+          .entries h5:nth-child(n+15){display: none}
+      </style>
+-->
+      <div class="entries">
+        {{#all_entries}}
+            {{#tagged.photos}}
+				<h5>{{{body}}}</h5>
+            {{/tagged.photos}}
+        {{/all_entries}}
+      </div>
+	  
+            
+
+    {{> footer}}
+    </div>
+  </body>
 </html>

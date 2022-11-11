@@ -6,8 +6,7 @@
   <atom:link href="{{{blogURL}}}/feed.rss" rel="self" type="application/rss+xml"/>
   <description><![CDATA[ RSS Feed - {{{title}}} ]]></description>
   {{#recentEntries}}
-    {{^tagged.shop}}
-    {{^tagged.photos}}
+    {{#tagged.morning coffee}}
 	  <item> 
 		<title><![CDATA[ {{{title}}} ]]></title>
 		<link>{{{absoluteURL}}}</link>
@@ -17,8 +16,7 @@
 		<dc:creator><![CDATA[ Nash ]]></dc:creator>
 		<description><![CDATA[ {{#encodeXML}} {{{body}}} {{/encodeXML}} ]]></description>
 	  </item>
-	  {{/tagged.photos}}
-    {{/tagged.shop}}
+    {{/tagged.morning coffee}}
   {{/recentEntries}}
 </channel>
 </rss>
