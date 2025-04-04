@@ -1,0 +1,25 @@
+<div id=entries>
+<div>
+<center><div class="randoms" id="albumsrandom"></div></center>
+		</div>
+		</div>
+<script>
+	var albumsentries = [
+		{{#all_entries}}
+		
+			{{#tagged.albums}}
+
+				{title: "{{title}}", url: "{{url}}", date: "{{date}}"},
+			
+			{{/tagged.albums}}
+		
+		{{/all_entries}}
+		];       
+
+				// Pick each of the entries at random
+		var albumsrecents = albumsentries.slice(0, 10);
+		var albumsentry = albumsentries[Math.floor(Math.random()*albumsrecents.length)];
+		var albumshtml = '<h3></h3>' + '<h1><a href="' + albumsentry.url +'">' +albumsentry.title +'</a></h1>';
+
+document.getElementById('albumsrandom').innerHTML = albumshtml;
+</script>

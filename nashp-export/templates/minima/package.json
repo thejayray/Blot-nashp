@@ -1,0 +1,26 @@
+{
+  "thumb": "",
+  "locals": {
+    "author": "GitHub User",
+    "email": "your-email@domain.com",
+    "description": "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.\n",
+    "show_excerpts": false,
+    "minima": {
+      "social_links": {
+        "twitter": "jekyllrb",
+        "github": "jekyll",
+        "rss": "rss"
+      }
+    }
+  },
+  "shareID": "",
+  "localEditing": false,
+  "description": "",
+  "name": "Minima",
+  "previewPath": "/",
+  "id": "blog_7d9c6729f90a4fd68ca68a09e88009f0:minima",
+  "slug": "minima",
+  "cloneFrom": "SITE:minima",
+  "owner": "blog_7d9c6729f90a4fd68ca68a09e88009f0",
+  "isPublic": false
+}

@@ -1,0 +1,14 @@
+{
+  "isPublic": false,
+  "owner": "blog_7d9c6729f90a4fd68ca68a09e88009f0",
+  "name": "Wordpress Export",
+  "slug": "wordpress-export",
+  "cloneFrom": "SITE:wordpress-export",
+  "id": "blog_7d9c6729f90a4fd68ca68a09e88009f0:wordpress-export",
+  "locals": {},
+  "description": "",
+  "thumb": "",
+  "localEditing": false,
+  "previewPath": "/",
+  "shareID": ""
+}

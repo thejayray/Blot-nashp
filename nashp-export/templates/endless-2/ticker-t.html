@@ -1,0 +1,17 @@
+<div class="ticker-top">
+	<center><font size="2"><div id="random"></div></font></center>
+</div>
+
+<script>
+	var entries = [
+		{{#recent_entries}}
+			{title: "{{title}}", url: "{{url}}", date: "{{date}}"},
+		{{/recent_entries}}
+		];       
+
+		// Pick one of the entries at random
+		var entry = entries[Math.floor(Math.random()*entries.length)];
+		var html = '<a href="' + entry.url +'">' + entry.title + '</a>';
+
+		document.getElementById('random').innerHTML = html;
+</script>

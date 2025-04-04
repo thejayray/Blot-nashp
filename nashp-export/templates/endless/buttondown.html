@@ -1,0 +1,33 @@
+<style>
+  .buttondown {
+    padding: 1rem;
+    border: 1px solid #479db1;
+  	margin-top: 0;
+  }
+  label.buttondown {
+      text-transform: uppercase;
+      font-size: 20px;
+  }
+  input.buttondown {
+      padding: 0.5rem;
+      width: 100%;
+  }
+  .subscribe {
+      text-transform: uppercase;
+      text-align: centered;
+  }
+</style>
+
+
+<form class="buttondown"
+  action="https://buttondown.email/api/emails/embed-subscribe/nashp"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/nashp', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Sign Up For The Newsletter</label>
+  <input type="email" name="email" id="bd-email" placeholder="your email here">
+  <input type="hidden" value="1" name="embed"></input>
+  <input class="subscribe" type="submit" value="Subscribe"></input>
+</form>

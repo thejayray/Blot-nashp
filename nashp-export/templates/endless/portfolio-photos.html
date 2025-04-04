@@ -1,0 +1,152 @@
+<style>
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+
+  /* Create four equal columns that sits next to each other */
+  .column {
+    flex: 20%;
+    max-width: 20%;
+    padding: 0 4px;
+  }
+
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
+
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 850px) {
+    .column {
+      flex: 45%;
+      max-width: 45%;
+    }
+  }
+
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 650px) {
+    .column {
+      flex: 95%;
+      max-width: 95%;
+    }
+  }
+</style>
+
+<div class="row"> 
+  <div class="column">
+    <div id="portfolioC1"></div>
+  </div>
+  <div class="column">
+    <div id="portfolioC2"></div>
+  </div> 
+  <div class="column">
+    <div id="portfolioC3"></div>
+  </div>
+  <div class="column">
+    <div id="portfolioC4"></div>
+  </div>
+</div>
+
+<script>
+	var gridentries = [
+		{{#all_entries}}
+			{{#tagged.photos}}
+				{{#thumbnail}}
+					{title: "{{title}}", url: "{{url}}", thumbnail: "{{{thumbnail.medium.url}}}", date: "{{date}}", caption: "{{metadata.caption}}"},
+				{{/thumbnail}}
+			{{/tagged.photos}}
+		{{/all_entries}}
+		];
+  
+  		let thumbs = [];
+		for (let i = 0; i < gridentries.length; i++) {
+   			if (gridentries[i].thumbnail != 0) {
+       			thumbs.push(gridentries[i]);
+   			}
+		}
+
+		function randomNoRepeats(array) {
+  			var entry = array.slice(0);
+			return function() {
+		    	if (entry.length < 1) {
+                	entry = array.slice(0);
+                }
+    			var index = Math.floor(Math.random() * entry.length);
+    			var item = entry[index];
+    			entry.splice(index, 1);
+    			return item;
+  			};
+  		}
+
+		// Pick each of the entries at random
+  		var chooser = randomNoRepeats(thumbs);
+        var j;
+        var gridentry = [];
+        var gridhtml = [];
+		let portfolio_c1 = "";
+        let portfolio_c2 = "";
+        let portfolio_c3 = "";
+        let portfolio_c4 = "";
+        for (j = 0; j < 8; j++) {
+            gridentry[j] = chooser();
+            gridhtml[j] = '<img src="' + gridentry[j].thumbnail + '">';
+                portfolio_c1 += gridhtml[j];
+        }
+        for (j = 8; j < 14 ; j++) {
+            gridentry[j] = chooser();
+            gridhtml[j] = '<img src="' + gridentry[j].thumbnail + '">';
+                portfolio_c2 += gridhtml[j];
+        }
+        for (j = 14; j < 21 ; j++) {
+            gridentry[j] = chooser();
+            gridhtml[j] = '<img src="' + gridentry[j].thumbnail + '">';
+                portfolio_c3 += gridhtml[j];
+        }
+        for (j = 21; j < 27 ; j++) {
+            gridentry[j] = chooser();
+            gridhtml[j] = '<img src="' + gridentry[j].thumbnail + '">';
+                portfolio_c4 += gridhtml[j];
+        }
+
+		const setGrid = (id, content) => {
+		  	const item = document.getElementById(id)
+			if (item === null) return
+			item.innerHTML = content
+		}
+
+	setGrid("portfolioC1", portfolio_c1)
+	setGrid("portfolioC2", portfolio_c2)
+    setGrid("portfolioC3", portfolio_c3)
+    setGrid("portfolioC4", portfolio_c4)
+</script>
+<script>
+// Get the elements with class="column"
+var elements = document.getElementsByClassName("column");
+
+// Declare a "loop" variable
+var k;
+
+// Full-width images
+function one() {
+  for (k = 0; k < elements.length; k++) {
+    elements[k].style.flex = "95%"; 
+  }
+}
+
+// Two images side by side
+function two() {
+  for (k = 0; k < elements.length; k++) {
+    elements[k].style.flex = "45%"; 
+  }
+}
+
+// Four images side by side
+function four() {
+  for (k = 0; k < elements.length; k++) {
+    elements[k].style.flex = "20%"; 
+  }
+}
+</script>

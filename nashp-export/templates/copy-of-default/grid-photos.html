@@ -1,0 +1,49 @@
+<style>
+		.grid-container {
+			display: grid;
+			grid-template-columns: auto auto auto;
+			padding: 10px;
+		}
+		.grid-item {
+			border: 1px solid #10404E;
+			font-size: 30px;
+			text-align: center;
+		}
+		.grid-item img {
+			margin: auto;
+			width: 100%;
+			height: auto;
+	
+		}
+		@media all and (min-width: 575px) and (max-width: 1024px) {
+			.grid-container {
+				grid-template-columns: auto auto;
+			}
+			.grid-item img {
+				width: 100%;
+			}
+		}
+		@media all and (max-width: 575px) {
+			.grid-container {
+				grid-template-columns: auto;
+			}
+			.grid-item img {
+				width: 100%;
+			}
+		}
+</style>
+<div class="grid-container">
+		{{#all_entries}}
+			{{#tagged.photos}}
+				 <div class="grid-item">
+				 		<a href="{{url}}">
+				 		{{#thumbnail}}
+				 			<img src="{{{thumbnail.large.url}}}">
+				 		{{/thumbnail}}
+				 		<h3 class="name">{{title}}</h3>
+				 		</a>
+				 	</div>
+			{{/tagged.photos}}
+		{{/all_entries}}
+</div>
+

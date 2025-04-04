@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  {{> head}} 
+  <body>
+    {{> header}}
+    <div class="container">
+    <br>
+      <style>
+          .entries h3:nth-child(n+6){display: none}
+      </style>
+      
+      <center><h1>Photos</h1></center>
+      <div class="entries">
+        {{#all_entries}}
+            {{#tagged.photos}}
+                <h3><a class="menu" href="{{url}}">{{title}}</a></h3>
+            {{/tagged.photos}}
+        {{/all_entries}}
+      </div>
+	  
+      <hr>
+        
+      <center><h1>Videos</h1></center>
+      <div class="entries">
+        {{#all_entries}}
+            {{#tagged.videos}}
+                <h3><a class="menu" href="{{url}}">{{title}}</a></h3>
+            {{/tagged.videos}}
+        {{/all_entries}}
+      </div>
+      
+            
+
+    {{> footer}}
+    </div>
+  </body>
+</html>

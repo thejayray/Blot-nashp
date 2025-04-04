@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  {{> head}}
+    <div class="container">
+    <br><br><br><br>
+      {{> header}}
+      
+              <h3 class="box_tops">
+		<span class="top_fill"><a href="/">Home</a> / <a href="https://buy.stripe.com/fZe4jqd135LRc4U4gj">Support</a> / <a href="/archive">Archive</a> / <a href="https://nashp.com/feed.rss">RSS</a></span>
+	</h3>
+	<div class="breakpoint"></div>
+      
+      	<div class="entry">
+          {{#entry}}
+              <h1>{{{titleTag}}}</h1>
+<h3 class="date">{{date}}</h3>
+          <div class="alt_font">
+              {{{body}}}
+          </div>
+          {{/entry}}
+        </div>
+
+
+
+          {{> footer}}
+          <br><br>
+    </div>
+</html>
+

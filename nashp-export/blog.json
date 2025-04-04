@@ -1,0 +1,3714 @@
+{
+  "menu": [
+    {
+      "label": "Morning Coffee",
+      "url": "/mc",
+      "metadata": {
+        "permalink": "mc",
+        "date": "4/18/2022",
+        "page": "yes",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+      },
+      "id": "/Projects/[Morning Coffee]/Morning Coffee.md",
+      "isPage": true
+    },
+    {
+      "label": "The Last Two Digits",
+      "url": "/99",
+      "metadata": {
+        "permalink": "99",
+        "date": "03/04/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/99 - The Last Two Digits.md",
+      "isPage": true
+    },
+    {
+      "label": "The Auxiliary Exchange",
+      "url": "/98",
+      "metadata": {
+        "permalink": "98",
+        "date": "02/25/2024",
+        "page": "yes",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/98 - The Auxiliary Exchange.md",
+      "isPage": true
+    },
+    {
+      "label": "The Big Trade",
+      "url": "/97",
+      "metadata": {
+        "permalink": "97",
+        "date": "02/18/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/97 - The Big Trade.md",
+      "isPage": true
+    },
+    {
+      "label": "A Gamer’s Nightstand",
+      "url": "/96",
+      "metadata": {
+        "permalink": "96",
+        "date": "02/12/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/96 - A Gamer’s Nightstand.md",
+      "isPage": true
+    },
+    {
+      "label": "Spatial Computing",
+      "url": "/95",
+      "metadata": {
+        "permalink": "95",
+        "date": "02/04/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/95 - Spatial Computing.md",
+      "isPage": true
+    },
+    {
+      "label": "Handhelds and Elbows",
+      "url": "/94",
+      "metadata": {
+        "permalink": "94",
+        "date": "01/28/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/94 - Handhelds and Elbows.md",
+      "isPage": true
+    },
+    {
+      "label": "How to Make Lists",
+      "url": "/93",
+      "metadata": {
+        "permalink": "93",
+        "date": "01/21/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/93 - How to Make Lists.md",
+      "isPage": true
+    },
+    {
+      "label": "A Refreshed Calendar",
+      "url": "/92",
+      "metadata": {
+        "permalink": "92",
+        "date": "01/14/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/92 - A Refreshed Calendar.md",
+      "isPage": true
+    },
+    {
+      "label": "Dots and Boxes",
+      "url": "/91",
+      "metadata": {
+        "permalink": "91",
+        "date": "01/07/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/91 - Dots and Boxes.md",
+      "isPage": true
+    },
+    {
+      "label": "100 Coffees",
+      "url": "/100",
+      "metadata": {
+        "permalink": "100",
+        "date": "03/08/2024",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/100 - 100 Coffees.md",
+      "isPage": true
+    },
+    {
+      "label": "How to Build a Book",
+      "url": "/87",
+      "metadata": {
+        "permalink": "87",
+        "date": "12/10/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/How to Build a Book.md",
+      "isPage": true
+    },
+    {
+      "label": "The Year of Clarity",
+      "url": "/90",
+      "metadata": {
+        "permalink": "90",
+        "date": "12/30/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/90 - The Year of Clarity.md",
+      "isPage": true
+    },
+    {
+      "label": "50 Things From 2023",
+      "url": "/89",
+      "metadata": {
+        "permalink": "89",
+        "date": "12/24/2023",
+        "page": "yes",
+        "note": "This week on Morning Coffee, I list out 50 things from my 2023"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/89 - 50 Things From 2023.md",
+      "isPage": true
+    },
+    {
+      "label": "The Christmas Spirit",
+      "url": "/88",
+      "metadata": {
+        "permalink": "88",
+        "date": "12/17/2023",
+        "page": "yes",
+        "note": "This week on Morning Coffee, I write about Christmas, the media that came out this year, and some gadgets that I’m selling."
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/88 - The Christmas Spirit.md",
+      "isPage": true
+    },
+    {
+      "label": "Clear the Deck",
+      "url": "/86",
+      "metadata": {
+        "permalink": "86",
+        "date": "12/02/2023",
+        "page": "yes",
+        "note": "This week on Morning Coffee, I write about not using social networks anymore, and how I do my weekly review."
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/86 - Clear the Deck.md",
+      "isPage": true
+    },
+    {
+      "label": "Declutter Your Phone",
+      "url": "/85",
+      "metadata": {
+        "permalink": "85",
+        "date": "11/24/2023",
+        "page": "yes",
+        "note": "This week on Morning Coffee, I share my current Home Screen, my simple App Library, and a trick to cleaning up photos."
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/85 - Declutter Your Phone.md",
+      "isPage": true
+    },
+    {
+      "label": "Little Library",
+      "url": "/84",
+      "metadata": {
+        "permalink": "84",
+        "date": "11/17/2023",
+        "page": "yes",
+        "note": "This week on morning coffee, I write about a little library, weekend projects, the power of HEY, and what I’ve been reading."
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/84 - Little Library.md",
+      "isPage": true
+    },
+    {
+      "label": "You’re TWO",
+      "url": "/83",
+      "metadata": {
+        "permalink": "83",
+        "date": "11/13/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/83 - You’re TWO.md",
+      "isPage": true
+    },
+    {
+      "label": "Only the Essentials",
+      "url": "/82",
+      "metadata": {
+        "permalink": "82",
+        "date": "11/04/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/82 - Only the Essentials.md",
+      "isPage": true
+    },
+    {
+      "label": "Preparing the Table",
+      "url": "/81",
+      "metadata": {
+        "permalink": "81",
+        "date": "10/27/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/81 - Preparing the Table.md",
+      "isPage": true
+    },
+    {
+      "label": "Eighty Letters",
+      "url": "/80",
+      "metadata": {
+        "permalink": "80",
+        "date": "10/21/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/80 - Eighty Letters.md",
+      "isPage": true
+    },
+    {
+      "label": "No Console Needed",
+      "url": "/79",
+      "metadata": {
+        "permalink": "79",
+        "date": "10/15/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/79 - No Console Needed.md",
+      "isPage": true
+    },
+    {
+      "label": "My Sofa Setup",
+      "url": "/78",
+      "metadata": {
+        "permalink": "78",
+        "date": "10/09/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/78 - My Sofa Setup.md",
+      "isPage": true
+    },
+    {
+      "label": "One More Quarter",
+      "url": "/77",
+      "metadata": {
+        "permalink": "77",
+        "date": "10/01/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/77 - One More Quarter.md",
+      "isPage": true
+    },
+    {
+      "label": "Childhood Gaming",
+      "url": "/76",
+      "metadata": {
+        "permalink": "76",
+        "date": "09/25/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/76 - Childhood Gaming.md",
+      "isPage": true
+    },
+    {
+      "label": "Areas of Life",
+      "url": "/75",
+      "metadata": {
+        "permalink": "75",
+        "date": "09/18/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/75 - Areas of Life.md",
+      "isPage": true
+    },
+    {
+      "label": "She’s 22 Months",
+      "url": "/74",
+      "metadata": {
+        "permalink": "74",
+        "date": "09/10/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/74 - She's 22 Months Now.md",
+      "isPage": true
+    },
+    {
+      "label": "A Space Story",
+      "url": "/73",
+      "metadata": {
+        "permalink": "73",
+        "date": "09/04/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/73 - A Space Story.md",
+      "isPage": true
+    },
+    {
+      "label": "A Vertical Sling (Four Month Review)",
+      "url": "/72",
+      "metadata": {
+        "permalink": "72",
+        "date": "08/27/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/72 - A Vertical Sling.md",
+      "isPage": true
+    },
+    {
+      "label": "A Stack of Cards",
+      "url": "/71",
+      "metadata": {
+        "permalink": "71",
+        "date": "08/21/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/71 - A Stack of Cards.md",
+      "isPage": true
+    },
+    {
+      "label": "The Box Comes Alive",
+      "url": "/70",
+      "metadata": {
+        "permalink": "70",
+        "date": "08/13/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/70 - The Box Comes Alive.md",
+      "isPage": true
+    },
+    {
+      "label": "Preparing for the Stars",
+      "url": "/69",
+      "metadata": {
+        "permalink": "69",
+        "date": "08/07/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/69 - Preparing For The Stars.md",
+      "isPage": true
+    },
+    {
+      "label": "Folders and Bridges",
+      "url": "/68",
+      "metadata": {
+        "permalink": "68",
+        "date": "07/31/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/68 - Folders and Bridges.md",
+      "isPage": true
+    },
+    {
+      "label": "The Bigger Story",
+      "url": "/67",
+      "metadata": {
+        "date": "07/23/2023",
+        "permalink": "67",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/67 - The Bigger Story.md",
+      "isPage": true
+    },
+    {
+      "label": "Synthesizer",
+      "url": "/66",
+      "metadata": {
+        "date": "07/16/2023",
+        "permalink": "66",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/66 - Synthesizer.md",
+      "isPage": true
+    },
+    {
+      "label": "How to Build a Website",
+      "url": "/65",
+      "metadata": {
+        "permalink": "65",
+        "date": "07/10/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/65 - How to Build a Website.md",
+      "isPage": true
+    },
+    {
+      "label": "How to Pack",
+      "url": "/64",
+      "metadata": {
+        "permalink": "64",
+        "date": "07/03/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/64 - How to Pack.md",
+      "isPage": true
+    },
+    {
+      "label": "Sunday Sabbaticals",
+      "url": "/63",
+      "metadata": {
+        "permalink": "63",
+        "date": "06/25/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/63 - Sunday Sabbaticals.md",
+      "isPage": true
+    },
+    {
+      "label": "Hole in the Wall",
+      "url": "/62",
+      "metadata": {
+        "permalink": "62",
+        "date": "06/18/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/62 - Hole in the Wall.md",
+      "isPage": true
+    },
+    {
+      "label": "Time is Shrinking",
+      "url": "/61",
+      "metadata": {
+        "permalink": "61",
+        "date": "06/11/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/61 - Time is Shrinking.md",
+      "isPage": true
+    },
+    {
+      "label": "Ready Player One",
+      "url": "/60",
+      "metadata": {
+        "permalink": "60",
+        "date": "06/05/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/60 - Ready Player One.md",
+      "isPage": true
+    },
+    {
+      "label": "Habit Stacking Marathon",
+      "url": "/59",
+      "metadata": {
+        "permalink": "59",
+        "date": "05/29/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/59 - Habit Stacking Marathon.md",
+      "isPage": true
+    },
+    {
+      "label": "This is Plastic",
+      "url": "/58",
+      "metadata": {
+        "date": "05/22/2023",
+        "permalink": "58",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/58 - This is Plastic.md",
+      "isPage": true
+    },
+    {
+      "label": "Rose Turns 18 Months",
+      "url": "/57",
+      "metadata": {
+        "date": "05/15/2023",
+        "permalink": "57",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/57 - Rose Turns 18 Months.md",
+      "isPage": true
+    },
+    {
+      "label": "My Favorite Computer",
+      "url": "/56",
+      "metadata": {
+        "date": "05/08/2023",
+        "permalink": "56",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/56 - My Favorite Computer.md",
+      "isPage": true
+    },
+    {
+      "label": "The Ghost",
+      "url": "/55",
+      "metadata": {
+        "date": "05/01/2023",
+        "permalink": "55",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/55 - The Ghost.md",
+      "isPage": true
+    },
+    {
+      "label": "The Perfect Day",
+      "url": "/54",
+      "metadata": {
+        "date": "04/23/2023",
+        "permalink": "54",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/54 - The Perfect Day.md",
+      "isPage": true
+    },
+    {
+      "label": "Every Monday For An Entire Year",
+      "url": "/53",
+      "metadata": {
+        "date": "04/17/2023",
+        "permalink": "53",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/53 - Every Monday.md",
+      "isPage": true
+    },
+    {
+      "label": "Move Fast and Break Things",
+      "url": "/52",
+      "metadata": {
+        "date": "04/10/2023 8:00 am",
+        "permalink": "52",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/52 - Move Fast and Break Things.md",
+      "isPage": true
+    },
+    {
+      "label": "An Open Field",
+      "url": "/51",
+      "metadata": {
+        "permalink": "51",
+        "date": "04/03/2023 06:46 am",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/51 - An Open Field.md",
+      "isPage": true
+    },
+    {
+      "label": "Looking Forward",
+      "url": "/137",
+      "metadata": {
+        "permalink": "137",
+        "date": "11/27/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/137 - Looking Forward.md",
+      "isPage": true
+    },
+    {
+      "label": "Civic Access",
+      "url": "/136",
+      "metadata": {
+        "permalink": "136",
+        "date": "11/19/2024",
+        "page": "yes",
+        "tags": "Gear, Pouches"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/136 - Civic Access.md",
+      "isPage": true
+    },
+    {
+      "label": "You’re Three",
+      "url": "/135",
+      "metadata": {
+        "permalink": "135",
+        "date": "11/12/2024",
+        "page": "yes",
+        "tags": "Family, Rose"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/135 - You’re Three.md",
+      "isPage": true
+    },
+    {
+      "label": "The Lock Screen Is My Home Screen",
+      "url": "/134",
+      "metadata": {
+        "permalink": "134",
+        "date": "11/4/2024",
+        "page": "yes",
+        "tags": "iPhone, Things, Family"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/134 - The Lock Screen Is My Home Screen.md",
+      "isPage": true
+    },
+    {
+      "label": "OmniFocus For Work",
+      "url": "/133",
+      "metadata": {
+        "permalink": "133",
+        "date": "10/28/2024",
+        "page": "yes",
+        "tags": "Apps, Productivity"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/133 - OmniFocus For Work.md",
+      "isPage": true
+    },
+    {
+      "label": "Preparing for the Party",
+      "url": "/132",
+      "metadata": {
+        "permalink": "132",
+        "date": "10/21/2024",
+        "page": "yes",
+        "tags": "Family, Life"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/132 - Preparing for the Party.md",
+      "isPage": true
+    },
+    {
+      "label": "Hospital Visit",
+      "url": "/131",
+      "metadata": {
+        "permalink": "131",
+        "date": "10/13/2024",
+        "page": "yes",
+        "tags": "watch, work, personal, calendar"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/131 - Hospital Visit.md",
+      "isPage": true
+    },
+    {
+      "label": "A New Chapter",
+      "url": "/130",
+      "metadata": {
+        "permalink": "130",
+        "date": "10/7/2024 5:00 am",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/130 - A New Chapter.md",
+      "isPage": true
+    },
+    {
+      "label": "The Fourth Quarter",
+      "url": "/129",
+      "metadata": {
+        "permalink": "129",
+        "date": "09/30/2024",
+        "page": "yes",
+        "tags": "Apple Watch, Gaming"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/129 - The Fourth Quarter.md",
+      "isPage": true
+    },
+    {
+      "label": "Direct Connection",
+      "url": "/128",
+      "metadata": {
+        "permalink": "128",
+        "date": "09/23/2024",
+        "page": "yes",
+        "tags": "iPhone, Apps, Gaming"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/128 - Direct Connection.md",
+      "isPage": true
+    },
+    {
+      "label": "The Cover Formula",
+      "url": "/127",
+      "metadata": {
+        "permalink": "127",
+        "date": "09/16/2024",
+        "page": "yes",
+        "tags": "Apps"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/127 - The Cover Formula.md",
+      "isPage": true
+    },
+    {
+      "label": "A New Mascot",
+      "url": "/126",
+      "metadata": {
+        "permalink": "126",
+        "date": "09/09/2024",
+        "page": "yes",
+        "tags": "Apple, iPhone, Gaming"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/126 - A New Mascot.md",
+      "isPage": true
+    },
+    {
+      "label": "Hollow Nights",
+      "url": "/125",
+      "metadata": {
+        "permalink": "125",
+        "date": "09/01/2024",
+        "page": "yes",
+        "tags": "Watch, Life, Podcasts, Queue, Movies"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/125 - Hollow Nights.md",
+      "isPage": true
+    },
+    {
+      "label": "Cozy Hyrule",
+      "url": "/124",
+      "metadata": {
+        "permalink": "124",
+        "date": "08/26/2024",
+        "page": "yes",
+        "tags": "Movies, Shows, Queue, iPhone, Gaming"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/124 - Cozy Hyrule.md",
+      "isPage": true
+    },
+    {
+      "label": "Feed the Deep",
+      "url": "/123",
+      "metadata": {
+        "permalink": "123",
+        "date": "08/19/2024",
+        "page": "yes",
+        "tags": "Games"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/123 - Feed the Deep.md",
+      "isPage": true
+    },
+    {
+      "label": "Modular Ultra",
+      "url": "/122",
+      "metadata": {
+        "permalink": "122",
+        "date": "08/12/2024",
+        "page": "yes",
+        "tags": "Apple Watch"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/122 - Modular Ultra.md",
+      "isPage": true
+    },
+    {
+      "label": "A Media Tracker",
+      "url": "/121",
+      "metadata": {
+        "permalink": "121",
+        "date": "08/04/2024",
+        "page": "yes",
+        "tags": "Apps, Media, Music, Movies, Games, Series"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/121 - A Media Tracker.md",
+      "isPage": true
+    },
+    {
+      "label": "Don’t Use Bookmarks",
+      "url": "/120",
+      "metadata": {
+        "permalink": "120",
+        "date": "07/29/2024",
+        "page": "yes",
+        "tags": "Links, Organizing, Bookmarks"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/120 - Don’t Use Bookmarks.md",
+      "isPage": true
+    },
+    {
+      "label": "Cartoons On The Go",
+      "url": "/119",
+      "metadata": {
+        "permalink": "119",
+        "date": "07/22/2024",
+        "page": "yes",
+        "tags": "Handhelds, Kids, Video Games"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/119 - Cartoons On The Go.md",
+      "isPage": true
+    },
+    {
+      "label": "Hide Your Apps",
+      "url": "/118",
+      "metadata": {
+        "permalink": "118",
+        "date": "07/15/2024",
+        "page": "yes",
+        "tags": "Apps, iPhone"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/118 - Hide Your Apps.md",
+      "isPage": true
+    },
+    {
+      "label": "How to Setup A Mac",
+      "url": "/117",
+      "metadata": {
+        "permalink": "117",
+        "date": "07/08/2024",
+        "page": "yes",
+        "tags": "Mac, apps, setup"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/117 - How to Setup A Mac.md",
+      "isPage": true
+    },
+    {
+      "label": "Timestamp Journaling",
+      "url": "/116",
+      "metadata": {
+        "permalink": "116",
+        "date": "07/01/2024",
+        "page": "yes",
+        "tags": "journaling, apps, writing"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/116 - Timestamp Journaling.md",
+      "isPage": true
+    },
+    {
+      "label": "Observations From The Beach",
+      "url": "/115",
+      "metadata": {
+        "permalink": "115",
+        "date": "06/24/2024",
+        "page": "yes",
+        "tags": "Traveling, Food, Vacation, Family"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/115 - Observations From The Beach.md",
+      "isPage": true
+    },
+    {
+      "label": "How To Pack For Destin",
+      "url": "/114",
+      "metadata": {
+        "permalink": "114",
+        "date": "06/16/2024",
+        "page": "yes",
+        "tags": "packing, gear"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/114 - How To Pack For Destin.md",
+      "isPage": true
+    },
+    {
+      "label": "Reduce White Point",
+      "url": "/113",
+      "metadata": {
+        "permalink": "113",
+        "date": "06/10/2024",
+        "page": "yes",
+        "tags": "iPhone, Games, Backlog"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/113 - Reduce White Point.md",
+      "isPage": true
+    },
+    {
+      "label": "A New Reeder",
+      "url": "/112",
+      "metadata": {
+        "permalink": "112",
+        "date": "06/03/2024",
+        "page": "yes",
+        "tags": "Apps, Music"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/112 - A New Reeder.md",
+      "isPage": true
+    },
+    {
+      "label": "Rustic Sky",
+      "url": "/111",
+      "metadata": {
+        "permalink": "111",
+        "date": "05/27/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/111 - Rustic Sky.md",
+      "isPage": true
+    },
+    {
+      "label": "A Bear That Blogs",
+      "url": "/110",
+      "metadata": {
+        "permalink": "110",
+        "date": "05/20/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/110 - A Bear That Blogs.md",
+      "isPage": true
+    },
+    {
+      "label": "Kendrick v Drake",
+      "url": "/109",
+      "metadata": {
+        "permalink": "109",
+        "date": "05/11/2024",
+        "page": "yes",
+        "title": "Kendrick v Drake"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/109 - The Timeline of Kendrick v Drake.md",
+      "isPage": true
+    },
+    {
+      "label": "A Home Arcade",
+      "url": "/108",
+      "metadata": {
+        "permalink": "108",
+        "date": "05/05/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/108 - A Home Arcade.md",
+      "isPage": true
+    },
+    {
+      "label": "An Obstacle Course",
+      "url": "/107",
+      "metadata": {
+        "permalink": "107",
+        "date": "04/29/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/107 - An Obstacle Course.md",
+      "isPage": true
+    },
+    {
+      "label": "Delta Is Here",
+      "url": "/106",
+      "metadata": {
+        "permalink": "106",
+        "date": "04/22/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/106 - Delta Is Here.md",
+      "isPage": true
+    },
+    {
+      "label": "The Sequential Life",
+      "url": "/105",
+      "metadata": {
+        "permalink": "105",
+        "date": "04/15/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/105 - The Sequential Life.md",
+      "isPage": true
+    },
+    {
+      "label": "A Beam of Light",
+      "url": "/104",
+      "metadata": {
+        "permalink": "104",
+        "date": "04/08/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/104 - A Beam of Light.md",
+      "isPage": true
+    },
+    {
+      "label": "Building Blocks",
+      "url": "/103",
+      "metadata": {
+        "permalink": "103",
+        "date": "04/01/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/103 - Building Blocks.md",
+      "isPage": true
+    },
+    {
+      "label": "Ramping Up",
+      "url": "/102",
+      "metadata": {
+        "permalink": "102",
+        "date": "03/25/2024",
+        "page": "yes",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/102 - Ramping Up.md",
+      "isPage": true
+    },
+    {
+      "label": "A Weekly Video",
+      "url": "/101",
+      "metadata": {
+        "permalink": "101",
+        "date": "03/16/2024",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/101 - A Weekly Video.md",
+      "isPage": true
+    },
+    {
+      "label": "It’s All Projects",
+      "url": "/50",
+      "metadata": {
+        "permalink": "50",
+        "date": "03/26/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/50 - It's All Projects.md",
+      "isPage": true
+    },
+    {
+      "label": "The Beauty of Chapters",
+      "url": "/49",
+      "metadata": {
+        "permalink": "49",
+        "date": "03/20/2023",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/49 - The Beauty of Chapters.md",
+      "isPage": true
+    },
+    {
+      "label": "Building a Studio",
+      "url": "/48",
+      "metadata": {
+        "date": "03/13/2023 8:00 am",
+        "permalink": "48",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/48 - Building a Studio.md",
+      "isPage": true
+    },
+    {
+      "label": "The Return of Mixtapes",
+      "url": "/47",
+      "metadata": {
+        "date": "03/06/2023 10:00 AM",
+        "permalink": "47",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/47 - The Return of Mixtapes.md",
+      "isPage": true
+    },
+    {
+      "label": "The Architect: Crafting a Better Story",
+      "url": "/46",
+      "metadata": {
+        "date": "02/27/2023",
+        "permalink": "46",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/46 - The Architect.md",
+      "isPage": true
+    },
+    {
+      "label": "The Shrine Hunter: Exploring Creativity, Fitness, and Adventure",
+      "url": "/45",
+      "metadata": {
+        "date": "02/20/2023 7:00 am",
+        "permalink": "45",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/45 - The Shrine Hunter.md",
+      "isPage": true
+    },
+    {
+      "label": "15 Months",
+      "url": "/44",
+      "metadata": {
+        "date": "02/12/2023 10:00 am",
+        "permalink": "44",
+        "thumbnail": "https://i.imgur.com/88yXk9c.jpg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/44 - 15 Months.md",
+      "isPage": true
+    },
+    {
+      "label": "My Writing Workflow",
+      "url": "/43",
+      "metadata": {
+        "date": "02/06/2023 09:24 am",
+        "permalink": "43",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/43 - My Writing Workflow.md",
+      "isPage": true
+    },
+    {
+      "label": "Getting Things Done",
+      "url": "/42",
+      "metadata": {
+        "date": "01/30/2022 9 am",
+        "permalink": "42",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/42 - Getting Things Done.md",
+      "isPage": true
+    },
+    {
+      "label": "Selective Sync",
+      "url": "/41",
+      "metadata": {
+        "date": "01/23/23 09:45 am",
+        "permalink": "41",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/41 - Selective Sync.md",
+      "isPage": true
+    },
+    {
+      "label": "Reader Request",
+      "url": "/40",
+      "metadata": {
+        "date": "01/16/2023 09:17 am",
+        "permalink": "40",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/40 - Reader Request.md",
+      "isPage": true
+    },
+    {
+      "label": "The Great Consolidation",
+      "url": "/39",
+      "metadata": {
+        "date": "01/09/2023 03:46 pm",
+        "permalink": "39",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/39 - The Great Consolidation.md",
+      "isPage": true
+    },
+    {
+      "label": "The Year of Depth",
+      "url": "/38",
+      "metadata": {
+        "date": "01/02/2023 09:30 am",
+        "permalink": "38",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/38 - The Year of Depth.md",
+      "isPage": true
+    },
+    {
+      "label": "The Story of 2022",
+      "url": "/37",
+      "metadata": {
+        "date": "12/26/2022 12:52 pm",
+        "permalink": "37",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/37 - The Story of 2022.md",
+      "isPage": true
+    },
+    {
+      "label": "The Best Of",
+      "url": "/36",
+      "metadata": {
+        "date": "12/19/2022 10:07",
+        "permalink": "36",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/36 - The Best Of.md",
+      "isPage": true
+    },
+    {
+      "label": "Omni",
+      "url": "/35",
+      "metadata": {
+        "date": "12/12/2022",
+        "permalink": "35",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/35 - Omni.md",
+      "isPage": true
+    },
+    {
+      "label": "Easy Mode",
+      "url": "/34",
+      "metadata": {
+        "date": "12/05/2022 09:08 am",
+        "permalink": "34",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/34 - Easy Mode.md",
+      "isPage": true
+    },
+    {
+      "label": "The Partitions",
+      "url": "/33",
+      "metadata": {
+        "date": "11/28/2022 8:31 am",
+        "permalink": "33",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/33 - The Partitions.md",
+      "isPage": true
+    },
+    {
+      "label": "What’s Holding All This Together",
+      "url": "/32",
+      "metadata": {
+        "date": "11/21/2022",
+        "permalink": "32",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/32 - What's Holding All This Together.md",
+      "isPage": true
+    },
+    {
+      "label": "Rose Turns One",
+      "url": "/31",
+      "metadata": {
+        "date": "11/14/22",
+        "permalink": "31",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/31 - Rose Turns One.md",
+      "isPage": true
+    },
+    {
+      "label": "Showing Up and Looking Forward",
+      "url": "/30",
+      "metadata": {
+        "date": "11/07/2022 10:21 am",
+        "permalink": "30",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/30 - Showing Up and Looking Forward.md",
+      "isPage": true
+    },
+    {
+      "label": "Robots Painted This",
+      "url": "/29",
+      "metadata": {
+        "date": "10/31/2022 10:40 am",
+        "permalink": "29",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/29 - Robots Painted This.md",
+      "isPage": true
+    },
+    {
+      "label": "Sharing Sofa",
+      "url": "/28",
+      "metadata": {
+        "date": "10/24/22 09:52 am",
+        "permalink": "28",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/28 - Sharing Sofa.md",
+      "isPage": true
+    },
+    {
+      "label": "Crates and Presets",
+      "url": "/27",
+      "metadata": {
+        "date": "10/17/22 12:34 pm",
+        "permalink": "27",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/27 - Crates and Presets.md",
+      "isPage": true
+    },
+    {
+      "label": "Homecoming",
+      "url": "/26",
+      "metadata": {
+        "date": "10/10/22 09:43 am",
+        "permalink": "26",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/26 - Homecoming.md",
+      "isPage": true
+    },
+    {
+      "label": "The Traveling Drone",
+      "url": "/25",
+      "metadata": {
+        "date": "10/03/2022 05:00 am",
+        "permalink": "25",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/25 - The Traveling Drone.md",
+      "isPage": true
+    },
+    {
+      "label": "System Thinking",
+      "url": "/24",
+      "metadata": {
+        "date": "09/26/2022 9:00 am",
+        "permalink": "24",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/24 - System Thinking.md",
+      "isPage": true
+    },
+    {
+      "label": "On This Day",
+      "url": "/23",
+      "metadata": {
+        "date": "September 19, 2022 11:16 am",
+        "permalink": "23",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/23 - On This Day.md",
+      "isPage": true
+    },
+    {
+      "label": "Dynamic Island",
+      "url": "/22",
+      "metadata": {
+        "date": "09/12/22 16:15",
+        "permalink": "22",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/22 - Dynamic Island.md",
+      "isPage": true
+    },
+    {
+      "label": "Organizing Health",
+      "url": "/21",
+      "metadata": {
+        "date": "09/05/22",
+        "permalink": "21",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/21 - Organizing Health.md",
+      "isPage": true
+    },
+    {
+      "label": "Up Ahead",
+      "url": "/20",
+      "metadata": {
+        "date": "08/29/2022",
+        "permalink": "20",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/20 - Up Ahead.md",
+      "isPage": true
+    },
+    {
+      "label": "Dancing with the Stars",
+      "url": "/19",
+      "metadata": {
+        "date": "08/22/2022",
+        "permalink": "19",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/19 - Dancing with the Stars.md",
+      "isPage": true
+    },
+    {
+      "label": "Military Backpack",
+      "url": "/18",
+      "metadata": {
+        "date": "08/15/2022 07:38:11",
+        "permalink": "18",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/18 - Military Backpack.md",
+      "isPage": true
+    },
+    {
+      "label": "Space Between Time",
+      "url": "/17",
+      "metadata": {
+        "date": "08/08/2022 08:26:29",
+        "permalink": "17",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/17 - Space Between Time.md",
+      "isPage": true
+    },
+    {
+      "label": "A Tiny Gameboy",
+      "url": "/16",
+      "metadata": {
+        "date": "08/01/2022",
+        "permalink": "16",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/16 - A Tiny Gameboy.md",
+      "isPage": true
+    },
+    {
+      "label": "5,000 Photos",
+      "url": "/15",
+      "metadata": {
+        "date": "07/25/2022 07:26:29",
+        "permalink": "15",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/15 - 5000.md",
+      "isPage": true
+    },
+    {
+      "label": "Upgrading the Newsletter",
+      "url": "/14",
+      "metadata": {
+        "date": "July 18, 2022",
+        "permalink": "14",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/14 - Upgrading the Newsletter.md",
+      "isPage": true
+    },
+    {
+      "label": "Emoji Folders",
+      "url": "/13",
+      "metadata": {
+        "date": "07/11/2022",
+        "permalink": "13",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/13 - Emoji Folders.md",
+      "isPage": true
+    },
+    {
+      "label": "Happy 4th of July",
+      "url": "/12",
+      "metadata": {
+        "date": "07/04/2022 10:26:29",
+        "permalink": "12",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/12 - Happy 4th of July.md",
+      "isPage": true
+    },
+    {
+      "label": "We Are the Energy",
+      "url": "/11",
+      "metadata": {
+        "date": "06/27/2022 10:25:00",
+        "permalink": "11",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/11 - We Are the Energy.md",
+      "isPage": true
+    },
+    {
+      "label": "Hard Work Pays Off",
+      "url": "/9",
+      "metadata": {
+        "permalink": "9",
+        "date": "06/13/2022 08:30:21",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/9 - Hard Work Pays Off.md",
+      "isPage": true
+    },
+    {
+      "label": "A Lens Blur, A Time Blur",
+      "url": "/8",
+      "metadata": {
+        "date": "06/06/2022 08:29:41",
+        "permalink": "8",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/8 - A Lens Blur.md",
+      "isPage": true
+    },
+    {
+      "label": "Yelling Into The Void",
+      "url": "/7",
+      "metadata": {
+        "date": "05/30/2022 10:42:19",
+        "permalink": "7",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/7 - Yelling into the Void.md",
+      "isPage": true
+    },
+    {
+      "label": "Today is my birthday",
+      "url": "/6",
+      "metadata": {
+        "permalink": "6",
+        "date": "05/23/2022 15:25:31",
+        "page": "yes",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/6 - Today is my birthday.md",
+      "isPage": true
+    },
+    {
+      "label": "New Motivation",
+      "url": "/5",
+      "metadata": {
+        "permalink": "5",
+        "date": "05/16/2022 13:46:03",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/5 - New Motivation.md",
+      "isPage": true
+    },
+    {
+      "label": "A Camera Changes Everything",
+      "url": "/4",
+      "metadata": {
+        "permalink": "4",
+        "date": "05/09/2022",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/4 - A Camera Changes Everything.md",
+      "isPage": true
+    },
+    {
+      "label": "Make Gifts",
+      "url": "/3",
+      "metadata": {
+        "permalink": "3",
+        "date": "05/02/2022 15:47:44",
+        "page": "yes",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/3 - Make Gifts.md",
+      "isPage": true
+    },
+    {
+      "label": "A Cheap Projector",
+      "url": "/2",
+      "metadata": {
+        "date": "04/25/2022",
+        "permalink": "2",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/2 - A Cheap Projector.md",
+      "isPage": true
+    },
+    {
+      "label": "My First Father’s Day",
+      "url": "/10",
+      "metadata": {
+        "date": "06/20/2022 09:17:00",
+        "permalink": "10",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+        "page": "yes"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/10 - My First Father’s Day.md",
+      "isPage": true
+    },
+    {
+      "label": "Why Mondays",
+      "url": "/1",
+      "metadata": {
+        "date": "April 18, 2022 05:30 pm",
+        "permalink": "1",
+        "page": "yes",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+      },
+      "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/1 - Why Mondays.md",
+      "isPage": true
+    },
+    {
+      "label": "Projects",
+      "url": "/projects",
+      "metadata": {
+        "page": "yes",
+        "date": "10/28/2024",
+        "permalink": "projects"
+      },
+      "id": "/Pages/Projects.md",
+      "isPage": true
+    },
+    {
+      "label": "Office Hours",
+      "url": "/oh",
+      "metadata": {
+        "permalink": "oh",
+        "page": "yes"
+      },
+      "id": "/Pages/Office Hours.md",
+      "isPage": true
+    },
+    {
+      "label": "Now",
+      "url": "/now",
+      "metadata": {
+        "permalink": "now",
+        "page": "yes",
+        "date": "10/28/2024"
+      },
+      "id": "/Pages/now.md",
+      "isPage": true
+    },
+    {
+      "label": "Building inside of OmniFocus and DEVONthink. Preparing for our new babies. Working at the local hospital. Waking up at 4 am to run and lift. Playing basketball once a week. Last updated: March 25th, 2025.",
+      "url": "/now-footer",
+      "metadata": {
+        "permalink": "now-footer",
+        "page": "yes",
+        "date": "10/25/21"
+      },
+      "id": "/Pages/now-footer.md",
+      "isPage": true
+    },
+    {
+      "label": "nashp",
+      "url": "/nashp",
+      "metadata": {
+        "permalink": "",
+        "page": "yes",
+        "date": "08/25/22"
+      },
+      "id": "/Pages/nashp.md",
+      "isPage": true
+    },
+    {
+      "label": "When the Satellite Fell",
+      "url": "/satellite",
+      "metadata": {
+        "permalink": "satellite",
+        "page": "yes"
+      },
+      "id": "/Pages/Music/Satellite.md",
+      "isPage": true
+    },
+    {
+      "label": "The Illusion of Progress",
+      "url": "/progress",
+      "metadata": {
+        "permalink": "progress",
+        "page": "yes"
+      },
+      "id": "/Pages/Music/Progress.md",
+      "isPage": true
+    },
+    {
+      "label": "Chasing My Ghost",
+      "url": "/ghost",
+      "metadata": {
+        "permalink": "ghost",
+        "page": "yes"
+      },
+      "id": "/Pages/Music/Ghost.md",
+      "isPage": true
+    },
+    {
+      "label": "Morning Coffee",
+      "url": "/mc-2",
+      "metadata": {
+        "permalink": "mc",
+        "date": "4/18/2022",
+        "page": "yes",
+        "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+      },
+      "id": "/Pages/Morning Coffee.md",
+      "isPage": true
+    },
+    {
+      "label": "Links",
+      "url": "/links",
+      "metadata": {
+        "page": "yes"
+      },
+      "id": "/Pages/Links.md",
+      "isPage": true
+    },
+    {
+      "label": "Garage Sale",
+      "url": "/sale",
+      "metadata": {
+        "page": "yes",
+        "permalink": "sale",
+        "date": "10/28/2024"
+      },
+      "id": "/Pages/Garage Sale.md",
+      "isPage": true
+    },
+    {
+      "label": "My Gaming Journey",
+      "url": "/gg",
+      "metadata": {
+        "permalink": "gg",
+        "date": "02/22/204",
+        "page": "yes"
+      },
+      "id": "/Pages/Gaming.md",
+      "isPage": true
+    },
+    {
+      "label": "Books",
+      "url": "/books",
+      "metadata": {
+        "page": "yes",
+        "date": "12/8/2023",
+        "permalink": "books"
+      },
+      "id": "/Pages/Books.md",
+      "isPage": true
+    },
+    {
+      "label": "Preparing for our new babies. Working at the local hospital. Waking up at 4 am to run and lift. Playing basketball once a week. Last updated: March 27th, 2025.",
+      "url": "/now-footer-2",
+      "metadata": {
+        "permalink": "now-footer",
+        "page": "yes",
+        "date": "10/25/21"
+      },
+      "id": "/pages/now-footer.md",
+      "isPage": true,
+      "last": true
+    }
+  ],
+  "forceSSL": true,
+  "plugins": {
+    "analytics": {
+      "enabled": true,
+      "options": {
+        "provider": {
+          "Google": "selected"
+        },
+        "trackingID": "UA-3231204-5"
+      }
+    },
+    "commento": {
+      "enabled": false,
+      "options": {}
+    },
+    "disqus": {
+      "enabled": false,
+      "options": {
+        "shortname": ""
+      }
+    },
+    "externalLinks": {
+      "enabled": false,
+      "options": {}
+    },
+    "twitter": {
+      "enabled": true,
+      "options": {}
+    },
+    "videoEmbeds": {
+      "enabled": true,
+      "options": {}
+    },
+    "codeHighlighting": {
+      "enabled": true,
+      "options": {}
+    },
+    "katex": {
+      "enabled": false,
+      "options": {}
+    },
+    "titlecase": {
+      "enabled": false,
+      "options": {}
+    },
+    "typeset": {
+      "enabled": true,
+      "options": {
+        "punctuation": true,
+        "hangingPunctuation": true,
+        "smallCaps": true
+      }
+    },
+    "wikilinks": {
+      "enabled": true,
+      "options": {}
+    },
+    "autoImage": {
+      "enabled": true,
+      "options": {}
+    },
+    "emoticons": {
+      "enabled": false,
+      "options": {}
+    },
+    "image": {
+      "enabled": true,
+      "options": {}
+    },
+    "imageCaption": {
+      "enabled": true,
+      "options": {}
+    },
+    "linkScreenshot": {
+      "enabled": false,
+      "options": {}
+    },
+    "zoom": {
+      "enabled": true,
+      "options": {}
+    },
+    "linebreaks": {
+      "enabled": false,
+      "options": {}
+    }
+  },
+  "flags": {
+    "google_drive_beta": false
+  },
+  "client": "dropbox",
+  "dateFormat": "M/D/YYYY",
+  "avatar": "https://cdn.blot.im/blog_7d9c6729f90a4fd68ca68a09e88009f0/_avatars/30c68eef-b0a8-4169-9eda-4613190aca79.png",
+  "title": "nashp.com ",
+  "timeZone": "US/Central",
+  "cssURL": "/style.css?cache=1743109626481&amp;extension=.css",
+  "scriptURL": "/script.js?cache=1743109626481&amp;extension=.js",
+  "roundAvatar": true,
+  "status": {
+    "message": "Synced",
+    "syncID": "sync_74e71f6",
+    "datestamp": 1743109624576,
+    "fromNow": "4 days ago",
+    "state": "synced"
+  },
+  "isDisabled": false,
+  "redirectSubdomain": false,
+  "handle": "nashp",
+  "domain": "nashp.com",
+  "template": "blog_7d9c6729f90a4fd68ca68a09e88009f0:copy-of-blog",
+  "cacheID": 1743109626481,
+  "id": "blog_7d9c6729f90a4fd68ca68a09e88009f0",
+  "permalink": {
+    "format": "{{slug}}",
+    "custom": "",
+    "isCustom": false
+  },
+  "owner": "user_BS06NS6UDJ8",
+  "pretty": {
+    "url": "nashp.com",
+    "label": "nashp.com ",
+    "domain": "nashp.com"
+  },
+  "isM/D/YYYY": "selected",
+  "pages": [],
+  "showPages": false,
+  "totalPages": 0,
+  "feedURL": "/feed.rss",
+  "url": "https://nashp.com",
+  "previewURL": "https://preview-of-nashp.blot.im",
+  "blogURL": "https://nashp.blot.im",
+  "locals": {
+    "feedURL": "/feed.rss",
+    "blogURL": "https://nashp.blot.im",
+    "cssURL": "/style.css?cache=1743109626481&amp;extension=.css",
+    "scriptURL": "/script.js?cache=1743109626481&amp;extension=.js",
+    "menu": [
+      {
+        "label": "Morning Coffee",
+        "url": "/mc",
+        "metadata": {
+          "permalink": "mc",
+          "date": "4/18/2022",
+          "page": "yes",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+        },
+        "id": "/Projects/[Morning Coffee]/Morning Coffee.md",
+        "isPage": true
+      },
+      {
+        "label": "The Last Two Digits",
+        "url": "/99",
+        "metadata": {
+          "permalink": "99",
+          "date": "03/04/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/99 - The Last Two Digits.md",
+        "isPage": true
+      },
+      {
+        "label": "The Auxiliary Exchange",
+        "url": "/98",
+        "metadata": {
+          "permalink": "98",
+          "date": "02/25/2024",
+          "page": "yes",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/98 - The Auxiliary Exchange.md",
+        "isPage": true
+      },
+      {
+        "label": "The Big Trade",
+        "url": "/97",
+        "metadata": {
+          "permalink": "97",
+          "date": "02/18/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/97 - The Big Trade.md",
+        "isPage": true
+      },
+      {
+        "label": "A Gamer’s Nightstand",
+        "url": "/96",
+        "metadata": {
+          "permalink": "96",
+          "date": "02/12/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/96 - A Gamer’s Nightstand.md",
+        "isPage": true
+      },
+      {
+        "label": "Spatial Computing",
+        "url": "/95",
+        "metadata": {
+          "permalink": "95",
+          "date": "02/04/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/95 - Spatial Computing.md",
+        "isPage": true
+      },
+      {
+        "label": "Handhelds and Elbows",
+        "url": "/94",
+        "metadata": {
+          "permalink": "94",
+          "date": "01/28/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/94 - Handhelds and Elbows.md",
+        "isPage": true
+      },
+      {
+        "label": "How to Make Lists",
+        "url": "/93",
+        "metadata": {
+          "permalink": "93",
+          "date": "01/21/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/93 - How to Make Lists.md",
+        "isPage": true
+      },
+      {
+        "label": "A Refreshed Calendar",
+        "url": "/92",
+        "metadata": {
+          "permalink": "92",
+          "date": "01/14/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/92 - A Refreshed Calendar.md",
+        "isPage": true
+      },
+      {
+        "label": "Dots and Boxes",
+        "url": "/91",
+        "metadata": {
+          "permalink": "91",
+          "date": "01/07/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/91 - Dots and Boxes.md",
+        "isPage": true
+      },
+      {
+        "label": "100 Coffees",
+        "url": "/100",
+        "metadata": {
+          "permalink": "100",
+          "date": "03/08/2024",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/91 - 100/100 - 100 Coffees.md",
+        "isPage": true
+      },
+      {
+        "label": "How to Build a Book",
+        "url": "/87",
+        "metadata": {
+          "permalink": "87",
+          "date": "12/10/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/How to Build a Book.md",
+        "isPage": true
+      },
+      {
+        "label": "The Year of Clarity",
+        "url": "/90",
+        "metadata": {
+          "permalink": "90",
+          "date": "12/30/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/90 - The Year of Clarity.md",
+        "isPage": true
+      },
+      {
+        "label": "50 Things From 2023",
+        "url": "/89",
+        "metadata": {
+          "permalink": "89",
+          "date": "12/24/2023",
+          "page": "yes",
+          "note": "This week on Morning Coffee, I list out 50 things from my 2023"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/89 - 50 Things From 2023.md",
+        "isPage": true
+      },
+      {
+        "label": "The Christmas Spirit",
+        "url": "/88",
+        "metadata": {
+          "permalink": "88",
+          "date": "12/17/2023",
+          "page": "yes",
+          "note": "This week on Morning Coffee, I write about Christmas, the media that came out this year, and some gadgets that I’m selling."
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/88 - The Christmas Spirit.md",
+        "isPage": true
+      },
+      {
+        "label": "Clear the Deck",
+        "url": "/86",
+        "metadata": {
+          "permalink": "86",
+          "date": "12/02/2023",
+          "page": "yes",
+          "note": "This week on Morning Coffee, I write about not using social networks anymore, and how I do my weekly review."
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/86 - Clear the Deck.md",
+        "isPage": true
+      },
+      {
+        "label": "Declutter Your Phone",
+        "url": "/85",
+        "metadata": {
+          "permalink": "85",
+          "date": "11/24/2023",
+          "page": "yes",
+          "note": "This week on Morning Coffee, I share my current Home Screen, my simple App Library, and a trick to cleaning up photos."
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/85 - Declutter Your Phone.md",
+        "isPage": true
+      },
+      {
+        "label": "Little Library",
+        "url": "/84",
+        "metadata": {
+          "permalink": "84",
+          "date": "11/17/2023",
+          "page": "yes",
+          "note": "This week on morning coffee, I write about a little library, weekend projects, the power of HEY, and what I’ve been reading."
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/84 - Little Library.md",
+        "isPage": true
+      },
+      {
+        "label": "You’re TWO",
+        "url": "/83",
+        "metadata": {
+          "permalink": "83",
+          "date": "11/13/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/83 - You’re TWO.md",
+        "isPage": true
+      },
+      {
+        "label": "Only the Essentials",
+        "url": "/82",
+        "metadata": {
+          "permalink": "82",
+          "date": "11/04/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/82 - Only the Essentials.md",
+        "isPage": true
+      },
+      {
+        "label": "Preparing the Table",
+        "url": "/81",
+        "metadata": {
+          "permalink": "81",
+          "date": "10/27/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/81 - 90/81 - Preparing the Table.md",
+        "isPage": true
+      },
+      {
+        "label": "Eighty Letters",
+        "url": "/80",
+        "metadata": {
+          "permalink": "80",
+          "date": "10/21/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/80 - Eighty Letters.md",
+        "isPage": true
+      },
+      {
+        "label": "No Console Needed",
+        "url": "/79",
+        "metadata": {
+          "permalink": "79",
+          "date": "10/15/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/79 - No Console Needed.md",
+        "isPage": true
+      },
+      {
+        "label": "My Sofa Setup",
+        "url": "/78",
+        "metadata": {
+          "permalink": "78",
+          "date": "10/09/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/78 - My Sofa Setup.md",
+        "isPage": true
+      },
+      {
+        "label": "One More Quarter",
+        "url": "/77",
+        "metadata": {
+          "permalink": "77",
+          "date": "10/01/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/77 - One More Quarter.md",
+        "isPage": true
+      },
+      {
+        "label": "Childhood Gaming",
+        "url": "/76",
+        "metadata": {
+          "permalink": "76",
+          "date": "09/25/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/76 - Childhood Gaming.md",
+        "isPage": true
+      },
+      {
+        "label": "Areas of Life",
+        "url": "/75",
+        "metadata": {
+          "permalink": "75",
+          "date": "09/18/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/75 - Areas of Life.md",
+        "isPage": true
+      },
+      {
+        "label": "She’s 22 Months",
+        "url": "/74",
+        "metadata": {
+          "permalink": "74",
+          "date": "09/10/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/74 - She's 22 Months Now.md",
+        "isPage": true
+      },
+      {
+        "label": "A Space Story",
+        "url": "/73",
+        "metadata": {
+          "permalink": "73",
+          "date": "09/04/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/73 - A Space Story.md",
+        "isPage": true
+      },
+      {
+        "label": "A Vertical Sling (Four Month Review)",
+        "url": "/72",
+        "metadata": {
+          "permalink": "72",
+          "date": "08/27/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/72 - A Vertical Sling.md",
+        "isPage": true
+      },
+      {
+        "label": "A Stack of Cards",
+        "url": "/71",
+        "metadata": {
+          "permalink": "71",
+          "date": "08/21/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/71 - 80/71 - A Stack of Cards.md",
+        "isPage": true
+      },
+      {
+        "label": "The Box Comes Alive",
+        "url": "/70",
+        "metadata": {
+          "permalink": "70",
+          "date": "08/13/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/70 - The Box Comes Alive.md",
+        "isPage": true
+      },
+      {
+        "label": "Preparing for the Stars",
+        "url": "/69",
+        "metadata": {
+          "permalink": "69",
+          "date": "08/07/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/69 - Preparing For The Stars.md",
+        "isPage": true
+      },
+      {
+        "label": "Folders and Bridges",
+        "url": "/68",
+        "metadata": {
+          "permalink": "68",
+          "date": "07/31/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/68 - Folders and Bridges.md",
+        "isPage": true
+      },
+      {
+        "label": "The Bigger Story",
+        "url": "/67",
+        "metadata": {
+          "date": "07/23/2023",
+          "permalink": "67",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/67 - The Bigger Story.md",
+        "isPage": true
+      },
+      {
+        "label": "Synthesizer",
+        "url": "/66",
+        "metadata": {
+          "date": "07/16/2023",
+          "permalink": "66",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/66 - Synthesizer.md",
+        "isPage": true
+      },
+      {
+        "label": "How to Build a Website",
+        "url": "/65",
+        "metadata": {
+          "permalink": "65",
+          "date": "07/10/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/65 - How to Build a Website.md",
+        "isPage": true
+      },
+      {
+        "label": "How to Pack",
+        "url": "/64",
+        "metadata": {
+          "permalink": "64",
+          "date": "07/03/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/64 - How to Pack.md",
+        "isPage": true
+      },
+      {
+        "label": "Sunday Sabbaticals",
+        "url": "/63",
+        "metadata": {
+          "permalink": "63",
+          "date": "06/25/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/63 - Sunday Sabbaticals.md",
+        "isPage": true
+      },
+      {
+        "label": "Hole in the Wall",
+        "url": "/62",
+        "metadata": {
+          "permalink": "62",
+          "date": "06/18/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/62 - Hole in the Wall.md",
+        "isPage": true
+      },
+      {
+        "label": "Time is Shrinking",
+        "url": "/61",
+        "metadata": {
+          "permalink": "61",
+          "date": "06/11/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/61 - 70/61 - Time is Shrinking.md",
+        "isPage": true
+      },
+      {
+        "label": "Ready Player One",
+        "url": "/60",
+        "metadata": {
+          "permalink": "60",
+          "date": "06/05/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/60 - Ready Player One.md",
+        "isPage": true
+      },
+      {
+        "label": "Habit Stacking Marathon",
+        "url": "/59",
+        "metadata": {
+          "permalink": "59",
+          "date": "05/29/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/59 - Habit Stacking Marathon.md",
+        "isPage": true
+      },
+      {
+        "label": "This is Plastic",
+        "url": "/58",
+        "metadata": {
+          "date": "05/22/2023",
+          "permalink": "58",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/58 - This is Plastic.md",
+        "isPage": true
+      },
+      {
+        "label": "Rose Turns 18 Months",
+        "url": "/57",
+        "metadata": {
+          "date": "05/15/2023",
+          "permalink": "57",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/57 - Rose Turns 18 Months.md",
+        "isPage": true
+      },
+      {
+        "label": "My Favorite Computer",
+        "url": "/56",
+        "metadata": {
+          "date": "05/08/2023",
+          "permalink": "56",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/56 - My Favorite Computer.md",
+        "isPage": true
+      },
+      {
+        "label": "The Ghost",
+        "url": "/55",
+        "metadata": {
+          "date": "05/01/2023",
+          "permalink": "55",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/55 - The Ghost.md",
+        "isPage": true
+      },
+      {
+        "label": "The Perfect Day",
+        "url": "/54",
+        "metadata": {
+          "date": "04/23/2023",
+          "permalink": "54",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/54 - The Perfect Day.md",
+        "isPage": true
+      },
+      {
+        "label": "Every Monday For An Entire Year",
+        "url": "/53",
+        "metadata": {
+          "date": "04/17/2023",
+          "permalink": "53",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/53 - Every Monday.md",
+        "isPage": true
+      },
+      {
+        "label": "Move Fast and Break Things",
+        "url": "/52",
+        "metadata": {
+          "date": "04/10/2023 8:00 am",
+          "permalink": "52",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/52 - Move Fast and Break Things.md",
+        "isPage": true
+      },
+      {
+        "label": "An Open Field",
+        "url": "/51",
+        "metadata": {
+          "permalink": "51",
+          "date": "04/03/2023 06:46 am",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/51 - 100/51 - 60/51 - An Open Field.md",
+        "isPage": true
+      },
+      {
+        "label": "Looking Forward",
+        "url": "/137",
+        "metadata": {
+          "permalink": "137",
+          "date": "11/27/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/137 - Looking Forward.md",
+        "isPage": true
+      },
+      {
+        "label": "Civic Access",
+        "url": "/136",
+        "metadata": {
+          "permalink": "136",
+          "date": "11/19/2024",
+          "page": "yes",
+          "tags": "Gear, Pouches"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/136 - Civic Access.md",
+        "isPage": true
+      },
+      {
+        "label": "You’re Three",
+        "url": "/135",
+        "metadata": {
+          "permalink": "135",
+          "date": "11/12/2024",
+          "page": "yes",
+          "tags": "Family, Rose"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/135 - You’re Three.md",
+        "isPage": true
+      },
+      {
+        "label": "The Lock Screen Is My Home Screen",
+        "url": "/134",
+        "metadata": {
+          "permalink": "134",
+          "date": "11/4/2024",
+          "page": "yes",
+          "tags": "iPhone, Things, Family"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/134 - The Lock Screen Is My Home Screen.md",
+        "isPage": true
+      },
+      {
+        "label": "OmniFocus For Work",
+        "url": "/133",
+        "metadata": {
+          "permalink": "133",
+          "date": "10/28/2024",
+          "page": "yes",
+          "tags": "Apps, Productivity"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/133 - OmniFocus For Work.md",
+        "isPage": true
+      },
+      {
+        "label": "Preparing for the Party",
+        "url": "/132",
+        "metadata": {
+          "permalink": "132",
+          "date": "10/21/2024",
+          "page": "yes",
+          "tags": "Family, Life"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/132 - Preparing for the Party.md",
+        "isPage": true
+      },
+      {
+        "label": "Hospital Visit",
+        "url": "/131",
+        "metadata": {
+          "permalink": "131",
+          "date": "10/13/2024",
+          "page": "yes",
+          "tags": "watch, work, personal, calendar"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/131 - 140/131 - Hospital Visit.md",
+        "isPage": true
+      },
+      {
+        "label": "A New Chapter",
+        "url": "/130",
+        "metadata": {
+          "permalink": "130",
+          "date": "10/7/2024 5:00 am",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/130 - A New Chapter.md",
+        "isPage": true
+      },
+      {
+        "label": "The Fourth Quarter",
+        "url": "/129",
+        "metadata": {
+          "permalink": "129",
+          "date": "09/30/2024",
+          "page": "yes",
+          "tags": "Apple Watch, Gaming"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/129 - The Fourth Quarter.md",
+        "isPage": true
+      },
+      {
+        "label": "Direct Connection",
+        "url": "/128",
+        "metadata": {
+          "permalink": "128",
+          "date": "09/23/2024",
+          "page": "yes",
+          "tags": "iPhone, Apps, Gaming"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/128 - Direct Connection.md",
+        "isPage": true
+      },
+      {
+        "label": "The Cover Formula",
+        "url": "/127",
+        "metadata": {
+          "permalink": "127",
+          "date": "09/16/2024",
+          "page": "yes",
+          "tags": "Apps"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/127 - The Cover Formula.md",
+        "isPage": true
+      },
+      {
+        "label": "A New Mascot",
+        "url": "/126",
+        "metadata": {
+          "permalink": "126",
+          "date": "09/09/2024",
+          "page": "yes",
+          "tags": "Apple, iPhone, Gaming"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/126 - A New Mascot.md",
+        "isPage": true
+      },
+      {
+        "label": "Hollow Nights",
+        "url": "/125",
+        "metadata": {
+          "permalink": "125",
+          "date": "09/01/2024",
+          "page": "yes",
+          "tags": "Watch, Life, Podcasts, Queue, Movies"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/125 - Hollow Nights.md",
+        "isPage": true
+      },
+      {
+        "label": "Cozy Hyrule",
+        "url": "/124",
+        "metadata": {
+          "permalink": "124",
+          "date": "08/26/2024",
+          "page": "yes",
+          "tags": "Movies, Shows, Queue, iPhone, Gaming"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/124 - Cozy Hyrule.md",
+        "isPage": true
+      },
+      {
+        "label": "Feed the Deep",
+        "url": "/123",
+        "metadata": {
+          "permalink": "123",
+          "date": "08/19/2024",
+          "page": "yes",
+          "tags": "Games"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/123 - Feed the Deep.md",
+        "isPage": true
+      },
+      {
+        "label": "Modular Ultra",
+        "url": "/122",
+        "metadata": {
+          "permalink": "122",
+          "date": "08/12/2024",
+          "page": "yes",
+          "tags": "Apple Watch"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/122 - Modular Ultra.md",
+        "isPage": true
+      },
+      {
+        "label": "A Media Tracker",
+        "url": "/121",
+        "metadata": {
+          "permalink": "121",
+          "date": "08/04/2024",
+          "page": "yes",
+          "tags": "Apps, Media, Music, Movies, Games, Series"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/121 - 130/121 - A Media Tracker.md",
+        "isPage": true
+      },
+      {
+        "label": "Don’t Use Bookmarks",
+        "url": "/120",
+        "metadata": {
+          "permalink": "120",
+          "date": "07/29/2024",
+          "page": "yes",
+          "tags": "Links, Organizing, Bookmarks"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/120 - Don’t Use Bookmarks.md",
+        "isPage": true
+      },
+      {
+        "label": "Cartoons On The Go",
+        "url": "/119",
+        "metadata": {
+          "permalink": "119",
+          "date": "07/22/2024",
+          "page": "yes",
+          "tags": "Handhelds, Kids, Video Games"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/119 - Cartoons On The Go.md",
+        "isPage": true
+      },
+      {
+        "label": "Hide Your Apps",
+        "url": "/118",
+        "metadata": {
+          "permalink": "118",
+          "date": "07/15/2024",
+          "page": "yes",
+          "tags": "Apps, iPhone"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/118 - Hide Your Apps.md",
+        "isPage": true
+      },
+      {
+        "label": "How to Setup A Mac",
+        "url": "/117",
+        "metadata": {
+          "permalink": "117",
+          "date": "07/08/2024",
+          "page": "yes",
+          "tags": "Mac, apps, setup"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/117 - How to Setup A Mac.md",
+        "isPage": true
+      },
+      {
+        "label": "Timestamp Journaling",
+        "url": "/116",
+        "metadata": {
+          "permalink": "116",
+          "date": "07/01/2024",
+          "page": "yes",
+          "tags": "journaling, apps, writing"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/116 - Timestamp Journaling.md",
+        "isPage": true
+      },
+      {
+        "label": "Observations From The Beach",
+        "url": "/115",
+        "metadata": {
+          "permalink": "115",
+          "date": "06/24/2024",
+          "page": "yes",
+          "tags": "Traveling, Food, Vacation, Family"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/115 - Observations From The Beach.md",
+        "isPage": true
+      },
+      {
+        "label": "How To Pack For Destin",
+        "url": "/114",
+        "metadata": {
+          "permalink": "114",
+          "date": "06/16/2024",
+          "page": "yes",
+          "tags": "packing, gear"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/114 - How To Pack For Destin.md",
+        "isPage": true
+      },
+      {
+        "label": "Reduce White Point",
+        "url": "/113",
+        "metadata": {
+          "permalink": "113",
+          "date": "06/10/2024",
+          "page": "yes",
+          "tags": "iPhone, Games, Backlog"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/113 - Reduce White Point.md",
+        "isPage": true
+      },
+      {
+        "label": "A New Reeder",
+        "url": "/112",
+        "metadata": {
+          "permalink": "112",
+          "date": "06/03/2024",
+          "page": "yes",
+          "tags": "Apps, Music"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/112 - A New Reeder.md",
+        "isPage": true
+      },
+      {
+        "label": "Rustic Sky",
+        "url": "/111",
+        "metadata": {
+          "permalink": "111",
+          "date": "05/27/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/111 - 120/111 - Rustic Sky.md",
+        "isPage": true
+      },
+      {
+        "label": "A Bear That Blogs",
+        "url": "/110",
+        "metadata": {
+          "permalink": "110",
+          "date": "05/20/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/110 - A Bear That Blogs.md",
+        "isPage": true
+      },
+      {
+        "label": "Kendrick v Drake",
+        "url": "/109",
+        "metadata": {
+          "permalink": "109",
+          "date": "05/11/2024",
+          "page": "yes",
+          "title": "Kendrick v Drake"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/109 - The Timeline of Kendrick v Drake.md",
+        "isPage": true
+      },
+      {
+        "label": "A Home Arcade",
+        "url": "/108",
+        "metadata": {
+          "permalink": "108",
+          "date": "05/05/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/108 - A Home Arcade.md",
+        "isPage": true
+      },
+      {
+        "label": "An Obstacle Course",
+        "url": "/107",
+        "metadata": {
+          "permalink": "107",
+          "date": "04/29/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/107 - An Obstacle Course.md",
+        "isPage": true
+      },
+      {
+        "label": "Delta Is Here",
+        "url": "/106",
+        "metadata": {
+          "permalink": "106",
+          "date": "04/22/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/106 - Delta Is Here.md",
+        "isPage": true
+      },
+      {
+        "label": "The Sequential Life",
+        "url": "/105",
+        "metadata": {
+          "permalink": "105",
+          "date": "04/15/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/105 - The Sequential Life.md",
+        "isPage": true
+      },
+      {
+        "label": "A Beam of Light",
+        "url": "/104",
+        "metadata": {
+          "permalink": "104",
+          "date": "04/08/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/104 - A Beam of Light.md",
+        "isPage": true
+      },
+      {
+        "label": "Building Blocks",
+        "url": "/103",
+        "metadata": {
+          "permalink": "103",
+          "date": "04/01/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/103 - Building Blocks.md",
+        "isPage": true
+      },
+      {
+        "label": "Ramping Up",
+        "url": "/102",
+        "metadata": {
+          "permalink": "102",
+          "date": "03/25/2024",
+          "page": "yes",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/102 - Ramping Up.md",
+        "isPage": true
+      },
+      {
+        "label": "A Weekly Video",
+        "url": "/101",
+        "metadata": {
+          "permalink": "101",
+          "date": "03/16/2024",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/101 - 150/101 - 110/101 - A Weekly Video.md",
+        "isPage": true
+      },
+      {
+        "label": "It’s All Projects",
+        "url": "/50",
+        "metadata": {
+          "permalink": "50",
+          "date": "03/26/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/50 - It's All Projects.md",
+        "isPage": true
+      },
+      {
+        "label": "The Beauty of Chapters",
+        "url": "/49",
+        "metadata": {
+          "permalink": "49",
+          "date": "03/20/2023",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/49 - The Beauty of Chapters.md",
+        "isPage": true
+      },
+      {
+        "label": "Building a Studio",
+        "url": "/48",
+        "metadata": {
+          "date": "03/13/2023 8:00 am",
+          "permalink": "48",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/48 - Building a Studio.md",
+        "isPage": true
+      },
+      {
+        "label": "The Return of Mixtapes",
+        "url": "/47",
+        "metadata": {
+          "date": "03/06/2023 10:00 AM",
+          "permalink": "47",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/47 - The Return of Mixtapes.md",
+        "isPage": true
+      },
+      {
+        "label": "The Architect: Crafting a Better Story",
+        "url": "/46",
+        "metadata": {
+          "date": "02/27/2023",
+          "permalink": "46",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/46 - The Architect.md",
+        "isPage": true
+      },
+      {
+        "label": "The Shrine Hunter: Exploring Creativity, Fitness, and Adventure",
+        "url": "/45",
+        "metadata": {
+          "date": "02/20/2023 7:00 am",
+          "permalink": "45",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/45 - The Shrine Hunter.md",
+        "isPage": true
+      },
+      {
+        "label": "15 Months",
+        "url": "/44",
+        "metadata": {
+          "date": "02/12/2023 10:00 am",
+          "permalink": "44",
+          "thumbnail": "https://i.imgur.com/88yXk9c.jpg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/44 - 15 Months.md",
+        "isPage": true
+      },
+      {
+        "label": "My Writing Workflow",
+        "url": "/43",
+        "metadata": {
+          "date": "02/06/2023 09:24 am",
+          "permalink": "43",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/43 - My Writing Workflow.md",
+        "isPage": true
+      },
+      {
+        "label": "Getting Things Done",
+        "url": "/42",
+        "metadata": {
+          "date": "01/30/2022 9 am",
+          "permalink": "42",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/42 - Getting Things Done.md",
+        "isPage": true
+      },
+      {
+        "label": "Selective Sync",
+        "url": "/41",
+        "metadata": {
+          "date": "01/23/23 09:45 am",
+          "permalink": "41",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/41 - 50/41 - Selective Sync.md",
+        "isPage": true
+      },
+      {
+        "label": "Reader Request",
+        "url": "/40",
+        "metadata": {
+          "date": "01/16/2023 09:17 am",
+          "permalink": "40",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/40 - Reader Request.md",
+        "isPage": true
+      },
+      {
+        "label": "The Great Consolidation",
+        "url": "/39",
+        "metadata": {
+          "date": "01/09/2023 03:46 pm",
+          "permalink": "39",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/39 - The Great Consolidation.md",
+        "isPage": true
+      },
+      {
+        "label": "The Year of Depth",
+        "url": "/38",
+        "metadata": {
+          "date": "01/02/2023 09:30 am",
+          "permalink": "38",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/38 - The Year of Depth.md",
+        "isPage": true
+      },
+      {
+        "label": "The Story of 2022",
+        "url": "/37",
+        "metadata": {
+          "date": "12/26/2022 12:52 pm",
+          "permalink": "37",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/37 - The Story of 2022.md",
+        "isPage": true
+      },
+      {
+        "label": "The Best Of",
+        "url": "/36",
+        "metadata": {
+          "date": "12/19/2022 10:07",
+          "permalink": "36",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/36 - The Best Of.md",
+        "isPage": true
+      },
+      {
+        "label": "Omni",
+        "url": "/35",
+        "metadata": {
+          "date": "12/12/2022",
+          "permalink": "35",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/35 - Omni.md",
+        "isPage": true
+      },
+      {
+        "label": "Easy Mode",
+        "url": "/34",
+        "metadata": {
+          "date": "12/05/2022 09:08 am",
+          "permalink": "34",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/34 - Easy Mode.md",
+        "isPage": true
+      },
+      {
+        "label": "The Partitions",
+        "url": "/33",
+        "metadata": {
+          "date": "11/28/2022 8:31 am",
+          "permalink": "33",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/33 - The Partitions.md",
+        "isPage": true
+      },
+      {
+        "label": "What’s Holding All This Together",
+        "url": "/32",
+        "metadata": {
+          "date": "11/21/2022",
+          "permalink": "32",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/32 - What's Holding All This Together.md",
+        "isPage": true
+      },
+      {
+        "label": "Rose Turns One",
+        "url": "/31",
+        "metadata": {
+          "date": "11/14/22",
+          "permalink": "31",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/31 - 40/31 - Rose Turns One.md",
+        "isPage": true
+      },
+      {
+        "label": "Showing Up and Looking Forward",
+        "url": "/30",
+        "metadata": {
+          "date": "11/07/2022 10:21 am",
+          "permalink": "30",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/30 - Showing Up and Looking Forward.md",
+        "isPage": true
+      },
+      {
+        "label": "Robots Painted This",
+        "url": "/29",
+        "metadata": {
+          "date": "10/31/2022 10:40 am",
+          "permalink": "29",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/29 - Robots Painted This.md",
+        "isPage": true
+      },
+      {
+        "label": "Sharing Sofa",
+        "url": "/28",
+        "metadata": {
+          "date": "10/24/22 09:52 am",
+          "permalink": "28",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/28 - Sharing Sofa.md",
+        "isPage": true
+      },
+      {
+        "label": "Crates and Presets",
+        "url": "/27",
+        "metadata": {
+          "date": "10/17/22 12:34 pm",
+          "permalink": "27",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/27 - Crates and Presets.md",
+        "isPage": true
+      },
+      {
+        "label": "Homecoming",
+        "url": "/26",
+        "metadata": {
+          "date": "10/10/22 09:43 am",
+          "permalink": "26",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/26 - Homecoming.md",
+        "isPage": true
+      },
+      {
+        "label": "The Traveling Drone",
+        "url": "/25",
+        "metadata": {
+          "date": "10/03/2022 05:00 am",
+          "permalink": "25",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/25 - The Traveling Drone.md",
+        "isPage": true
+      },
+      {
+        "label": "System Thinking",
+        "url": "/24",
+        "metadata": {
+          "date": "09/26/2022 9:00 am",
+          "permalink": "24",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/24 - System Thinking.md",
+        "isPage": true
+      },
+      {
+        "label": "On This Day",
+        "url": "/23",
+        "metadata": {
+          "date": "September 19, 2022 11:16 am",
+          "permalink": "23",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/23 - On This Day.md",
+        "isPage": true
+      },
+      {
+        "label": "Dynamic Island",
+        "url": "/22",
+        "metadata": {
+          "date": "09/12/22 16:15",
+          "permalink": "22",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/22 - Dynamic Island.md",
+        "isPage": true
+      },
+      {
+        "label": "Organizing Health",
+        "url": "/21",
+        "metadata": {
+          "date": "09/05/22",
+          "permalink": "21",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/21 - 30/21 - Organizing Health.md",
+        "isPage": true
+      },
+      {
+        "label": "Up Ahead",
+        "url": "/20",
+        "metadata": {
+          "date": "08/29/2022",
+          "permalink": "20",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/20 - Up Ahead.md",
+        "isPage": true
+      },
+      {
+        "label": "Dancing with the Stars",
+        "url": "/19",
+        "metadata": {
+          "date": "08/22/2022",
+          "permalink": "19",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/19 - Dancing with the Stars.md",
+        "isPage": true
+      },
+      {
+        "label": "Military Backpack",
+        "url": "/18",
+        "metadata": {
+          "date": "08/15/2022 07:38:11",
+          "permalink": "18",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/18 - Military Backpack.md",
+        "isPage": true
+      },
+      {
+        "label": "Space Between Time",
+        "url": "/17",
+        "metadata": {
+          "date": "08/08/2022 08:26:29",
+          "permalink": "17",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/17 - Space Between Time.md",
+        "isPage": true
+      },
+      {
+        "label": "A Tiny Gameboy",
+        "url": "/16",
+        "metadata": {
+          "date": "08/01/2022",
+          "permalink": "16",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/16 - A Tiny Gameboy.md",
+        "isPage": true
+      },
+      {
+        "label": "5,000 Photos",
+        "url": "/15",
+        "metadata": {
+          "date": "07/25/2022 07:26:29",
+          "permalink": "15",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/15 - 5000.md",
+        "isPage": true
+      },
+      {
+        "label": "Upgrading the Newsletter",
+        "url": "/14",
+        "metadata": {
+          "date": "July 18, 2022",
+          "permalink": "14",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/14 - Upgrading the Newsletter.md",
+        "isPage": true
+      },
+      {
+        "label": "Emoji Folders",
+        "url": "/13",
+        "metadata": {
+          "date": "07/11/2022",
+          "permalink": "13",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/13 - Emoji Folders.md",
+        "isPage": true
+      },
+      {
+        "label": "Happy 4th of July",
+        "url": "/12",
+        "metadata": {
+          "date": "07/04/2022 10:26:29",
+          "permalink": "12",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/12 - Happy 4th of July.md",
+        "isPage": true
+      },
+      {
+        "label": "We Are the Energy",
+        "url": "/11",
+        "metadata": {
+          "date": "06/27/2022 10:25:00",
+          "permalink": "11",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/11 - 20/11 - We Are the Energy.md",
+        "isPage": true
+      },
+      {
+        "label": "Hard Work Pays Off",
+        "url": "/9",
+        "metadata": {
+          "permalink": "9",
+          "date": "06/13/2022 08:30:21",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/9 - Hard Work Pays Off.md",
+        "isPage": true
+      },
+      {
+        "label": "A Lens Blur, A Time Blur",
+        "url": "/8",
+        "metadata": {
+          "date": "06/06/2022 08:29:41",
+          "permalink": "8",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/8 - A Lens Blur.md",
+        "isPage": true
+      },
+      {
+        "label": "Yelling Into The Void",
+        "url": "/7",
+        "metadata": {
+          "date": "05/30/2022 10:42:19",
+          "permalink": "7",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/7 - Yelling into the Void.md",
+        "isPage": true
+      },
+      {
+        "label": "Today is my birthday",
+        "url": "/6",
+        "metadata": {
+          "permalink": "6",
+          "date": "05/23/2022 15:25:31",
+          "page": "yes",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/6 - Today is my birthday.md",
+        "isPage": true
+      },
+      {
+        "label": "New Motivation",
+        "url": "/5",
+        "metadata": {
+          "permalink": "5",
+          "date": "05/16/2022 13:46:03",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/5 - New Motivation.md",
+        "isPage": true
+      },
+      {
+        "label": "A Camera Changes Everything",
+        "url": "/4",
+        "metadata": {
+          "permalink": "4",
+          "date": "05/09/2022",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/4 - A Camera Changes Everything.md",
+        "isPage": true
+      },
+      {
+        "label": "Make Gifts",
+        "url": "/3",
+        "metadata": {
+          "permalink": "3",
+          "date": "05/02/2022 15:47:44",
+          "page": "yes",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/3 - Make Gifts.md",
+        "isPage": true
+      },
+      {
+        "label": "A Cheap Projector",
+        "url": "/2",
+        "metadata": {
+          "date": "04/25/2022",
+          "permalink": "2",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/2 - A Cheap Projector.md",
+        "isPage": true
+      },
+      {
+        "label": "My First Father’s Day",
+        "url": "/10",
+        "metadata": {
+          "date": "06/20/2022 09:17:00",
+          "permalink": "10",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg",
+          "page": "yes"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/10 - My First Father’s Day.md",
+        "isPage": true
+      },
+      {
+        "label": "Why Mondays",
+        "url": "/1",
+        "metadata": {
+          "date": "April 18, 2022 05:30 pm",
+          "permalink": "1",
+          "page": "yes",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+        },
+        "id": "/Projects/[Morning Coffee]/1 - 50/1 - 10/1 - Why Mondays.md",
+        "isPage": true
+      },
+      {
+        "label": "Projects",
+        "url": "/projects",
+        "metadata": {
+          "page": "yes",
+          "date": "10/28/2024",
+          "permalink": "projects"
+        },
+        "id": "/Pages/Projects.md",
+        "isPage": true
+      },
+      {
+        "label": "Office Hours",
+        "url": "/oh",
+        "metadata": {
+          "permalink": "oh",
+          "page": "yes"
+        },
+        "id": "/Pages/Office Hours.md",
+        "isPage": true
+      },
+      {
+        "label": "Now",
+        "url": "/now",
+        "metadata": {
+          "permalink": "now",
+          "page": "yes",
+          "date": "10/28/2024"
+        },
+        "id": "/Pages/now.md",
+        "isPage": true
+      },
+      {
+        "label": "Building inside of OmniFocus and DEVONthink. Preparing for our new babies. Working at the local hospital. Waking up at 4 am to run and lift. Playing basketball once a week. Last updated: March 25th, 2025.",
+        "url": "/now-footer",
+        "metadata": {
+          "permalink": "now-footer",
+          "page": "yes",
+          "date": "10/25/21"
+        },
+        "id": "/Pages/now-footer.md",
+        "isPage": true
+      },
+      {
+        "label": "nashp",
+        "url": "/nashp",
+        "metadata": {
+          "permalink": "",
+          "page": "yes",
+          "date": "08/25/22"
+        },
+        "id": "/Pages/nashp.md",
+        "isPage": true
+      },
+      {
+        "label": "When the Satellite Fell",
+        "url": "/satellite",
+        "metadata": {
+          "permalink": "satellite",
+          "page": "yes"
+        },
+        "id": "/Pages/Music/Satellite.md",
+        "isPage": true
+      },
+      {
+        "label": "The Illusion of Progress",
+        "url": "/progress",
+        "metadata": {
+          "permalink": "progress",
+          "page": "yes"
+        },
+        "id": "/Pages/Music/Progress.md",
+        "isPage": true
+      },
+      {
+        "label": "Chasing My Ghost",
+        "url": "/ghost",
+        "metadata": {
+          "permalink": "ghost",
+          "page": "yes"
+        },
+        "id": "/Pages/Music/Ghost.md",
+        "isPage": true
+      },
+      {
+        "label": "Morning Coffee",
+        "url": "/mc-2",
+        "metadata": {
+          "permalink": "mc",
+          "date": "4/18/2022",
+          "page": "yes",
+          "thumbnail": "https://i.imgur.com/3p4hxTx.jpeg"
+        },
+        "id": "/Pages/Morning Coffee.md",
+        "isPage": true
+      },
+      {
+        "label": "Links",
+        "url": "/links",
+        "metadata": {
+          "page": "yes"
+        },
+        "id": "/Pages/Links.md",
+        "isPage": true
+      },
+      {
+        "label": "Garage Sale",
+        "url": "/sale",
+        "metadata": {
+          "page": "yes",
+          "permalink": "sale",
+          "date": "10/28/2024"
+        },
+        "id": "/Pages/Garage Sale.md",
+        "isPage": true
+      },
+      {
+        "label": "My Gaming Journey",
+        "url": "/gg",
+        "metadata": {
+          "permalink": "gg",
+          "date": "02/22/204",
+          "page": "yes"
+        },
+        "id": "/Pages/Gaming.md",
+        "isPage": true
+      },
+      {
+        "label": "Books",
+        "url": "/books",
+        "metadata": {
+          "page": "yes",
+          "date": "12/8/2023",
+          "permalink": "books"
+        },
+        "id": "/Pages/Books.md",
+        "isPage": true
+      },
+      {
+        "label": "Preparing for our new babies. Working at the local hospital. Waking up at 4 am to run and lift. Playing basketball once a week. Last updated: March 27th, 2025.",
+        "url": "/now-footer-2",
+        "metadata": {
+          "permalink": "now-footer",
+          "page": "yes",
+          "date": "10/25/21"
+        },
+        "id": "/pages/now-footer.md",
+        "isPage": true,
+        "last": true
+      }
+    ],
+    "plugins": {
+      "analytics": {
+        "enabled": true,
+        "options": {
+          "provider": {
+            "Google": "selected"
+          },
+          "trackingID": "UA-3231204-5"
+        }
+      },
+      "commento": {
+        "enabled": false,
+        "options": {}
+      },
+      "disqus": {
+        "enabled": false,
+        "options": {
+          "shortname": ""
+        }
+      },
+      "externalLinks": {
+        "enabled": false,
+        "options": {}
+      },
+      "twitter": {
+        "enabled": true,
+        "options": {}
+      },
+      "videoEmbeds": {
+        "enabled": true,
+        "options": {}
+      },
+      "codeHighlighting": {
+        "enabled": true,
+        "options": {}
+      },
+      "katex": {
+        "enabled": false,
+        "options": {}
+      },
+      "titlecase": {
+        "enabled": false,
+        "options": {}
+      },
+      "typeset": {
+        "enabled": true,
+        "options": {
+          "punctuation": true,
+          "hangingPunctuation": true,
+          "smallCaps": true
+        }
+      },
+      "wikilinks": {
+        "enabled": true,
+        "options": {}
+      },
+      "autoImage": {
+        "enabled": true,
+        "options": {}
+      },
+      "emoticons": {
+        "enabled": false,
+        "options": {}
+      },
+      "image": {
+        "enabled": true,
+        "options": {}
+      },
+      "imageCaption": {
+        "enabled": true,
+        "options": {}
+      },
+      "linkScreenshot": {
+        "enabled": false,
+        "options": {}
+      },
+      "zoom": {
+        "enabled": true,
+        "options": {}
+      },
+      "linebreaks": {
+        "enabled": false,
+        "options": {}
+      }
+    },
+    "dateFormat": "M/D/YYYY",
+    "avatar": "https://cdn.blot.im/blog_7d9c6729f90a4fd68ca68a09e88009f0/_avatars/30c68eef-b0a8-4169-9eda-4613190aca79.png",
+    "title": "nashp.com ",
+    "timeZone": "US/Central",
+    "roundAvatar": true,
+    "status": {
+      "message": "Synced",
+      "syncID": "sync_74e71f6",
+      "datestamp": 1743109624576,
+      "fromNow": "4 days ago",
+      "state": "synced"
+    },
+    "handle": "nashp",
+    "domain": "nashp.com",
+    "cacheID": 1743109626481,
+    "permalink": {
+      "format": "{{slug}}",
+      "custom": "",
+      "isCustom": false
+    }
+  },
+  "updated": "4 days ago"
+}
