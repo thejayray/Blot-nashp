@@ -1,0 +1,31 @@
+{
+  "description": "",
+  "errors": {},
+  "thumb": "",
+  "localEditing": true,
+  "locals": {
+    "page_size": "10",
+    "background_color": "#ffffff",
+    "background_color_dark": "#2F3440",
+    "background_color_alt": "#EE5261",
+    "text_color": "#10404E",
+    "text_color_dark": "#F2F2F2",
+    "link_color": "#479db1",
+    "author_info": {
+      "name": "Nash",
+      "email": "nashp@me.com"
+    },
+    "site_description": "I'm Nash. I create things.",
+    "body_font": {
+      "id": "---",
+      "font_size": "12",
+      "line_height": "1.7"
+    }
+  },
+  "name": "Effortless",
+  "shareID": "",
+  "id": "blog_7d9c6729f90a4fd68ca68a09e88009f0:copy-of-blog",
+  "slug": "copy-of-blog",
+  "previewPath": "/",
+  "owner": "blog_7d9c6729f90a4fd68ca68a09e88009f0"
+}
